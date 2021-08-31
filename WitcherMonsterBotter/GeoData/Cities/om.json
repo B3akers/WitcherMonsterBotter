@@ -1,0 +1,156 @@
+[
+  {
+    "city": "Muscat", 
+    "lat": "23.6139", 
+    "lng": "58.5922", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Masqaţ", 
+    "capital": "primary", 
+    "population": "1421409", 
+    "population_proper": "1421409"
+  }, 
+  {
+    "city": "As Sīb", 
+    "lat": "23.6802", 
+    "lng": "58.1825", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Masqaţ", 
+    "capital": "", 
+    "population": "237816", 
+    "population_proper": "237816"
+  }, 
+  {
+    "city": "Maţraḩ", 
+    "lat": "23.6167", 
+    "lng": "58.5667", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Masqaţ", 
+    "capital": "", 
+    "population": "214901", 
+    "population_proper": "214901"
+  }, 
+  {
+    "city": "Şalālah", 
+    "lat": "17.0197", 
+    "lng": "54.0897", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Z̧ufār", 
+    "capital": "admin", 
+    "population": "178469", 
+    "population_proper": "178469"
+  }, 
+  {
+    "city": "‘Ibrī", 
+    "lat": "23.2254", 
+    "lng": "56.5170", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Ad Dākhilīyah", 
+    "capital": "admin", 
+    "population": "101640", 
+    "population_proper": "101640"
+  }, 
+  {
+    "city": "Nizwá", 
+    "lat": "22.9333", 
+    "lng": "57.5333", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Ad Dākhilīyah", 
+    "capital": "admin", 
+    "population": "70000", 
+    "population_proper": "70000"
+  }, 
+  {
+    "city": "Khaşab", 
+    "lat": "26.1833", 
+    "lng": "56.2500", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Musandam", 
+    "capital": "admin", 
+    "population": "17777", 
+    "population_proper": "17777"
+  }, 
+  {
+    "city": "Al Mazyūnah", 
+    "lat": "17.8486", 
+    "lng": "52.6200", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Z̧ufār", 
+    "capital": "minor", 
+    "population": "4257", 
+    "population_proper": "4257"
+  }, 
+  {
+    "city": "Al Buraymī", 
+    "lat": "24.2558", 
+    "lng": "55.8025", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Al Buraymī", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Şuḩār", 
+    "lat": "24.3420", 
+    "lng": "56.7299", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Shamāl al Bāţinah", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ar Rustāq", 
+    "lat": "23.3908", 
+    "lng": "57.4244", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Janūb al Bāţinah", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Şūr", 
+    "lat": "22.5667", 
+    "lng": "59.5289", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Janūb ash Sharqīyah", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ibrā’", 
+    "lat": "22.6906", 
+    "lng": "58.5334", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Shamāl ash Sharqīyah", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Haymā’", 
+    "lat": "19.9333", 
+    "lng": "56.3167", 
+    "country": "Oman", 
+    "iso2": "OM", 
+    "admin_name": "Al Wusţá", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

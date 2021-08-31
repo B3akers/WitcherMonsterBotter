@@ -1,0 +1,134 @@
+[
+  {
+    "city": "Lusaka", 
+    "lat": "-15.4167", 
+    "lng": "28.2833", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Lusaka", 
+    "capital": "primary", 
+    "population": "1742979", 
+    "population_proper": "1742979"
+  }, 
+  {
+    "city": "Ndola", 
+    "lat": "-12.9683", 
+    "lng": "28.6337", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Copperbelt", 
+    "capital": "admin", 
+    "population": "528330", 
+    "population_proper": "528330"
+  }, 
+  {
+    "city": "Kitwe", 
+    "lat": "-12.8208", 
+    "lng": "28.2119", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Copperbelt", 
+    "capital": "", 
+    "population": "504194", 
+    "population_proper": "504194"
+  }, 
+  {
+    "city": "Mazabuka", 
+    "lat": "-15.8667", 
+    "lng": "27.7667", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Southern", 
+    "capital": "", 
+    "population": "203219", 
+    "population_proper": "203219"
+  }, 
+  {
+    "city": "Kasama", 
+    "lat": "-10.1996", 
+    "lng": "31.1799", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Northern", 
+    "capital": "admin", 
+    "population": "200000", 
+    "population_proper": "113000"
+  }, 
+  {
+    "city": "Mansa", 
+    "lat": "-11.1822", 
+    "lng": "28.8833", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Luapula", 
+    "capital": "admin", 
+    "population": "129185", 
+    "population_proper": "129185"
+  }, 
+  {
+    "city": "Kabwe", 
+    "lat": "-14.4333", 
+    "lng": "28.4500", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Central", 
+    "capital": "admin", 
+    "population": "117517", 
+    "population_proper": "117517"
+  }, 
+  {
+    "city": "Chipata", 
+    "lat": "-13.6386", 
+    "lng": "32.6453", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Eastern", 
+    "capital": "admin", 
+    "population": "98416", 
+    "population_proper": "98416"
+  }, 
+  {
+    "city": "Solwezi", 
+    "lat": "-12.1833", 
+    "lng": "26.4000", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "North-Western", 
+    "capital": "admin", 
+    "population": "65000", 
+    "population_proper": "38587"
+  }, 
+  {
+    "city": "Mongu", 
+    "lat": "-15.2796", 
+    "lng": "23.1200", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Western", 
+    "capital": "admin", 
+    "population": "52534", 
+    "population_proper": "37663"
+  }, 
+  {
+    "city": "Choma", 
+    "lat": "-16.8095", 
+    "lng": "26.9700", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Southern", 
+    "capital": "admin", 
+    "population": "46746", 
+    "population_proper": "37902"
+  }, 
+  {
+    "city": "Chinsali", 
+    "lat": "-10.5496", 
+    "lng": "32.0600", 
+    "country": "Zambia", 
+    "iso2": "ZM", 
+    "admin_name": "Muchinga", 
+    "capital": "admin", 
+    "population": "14015", 
+    "population_proper": "950"
+  }
+]

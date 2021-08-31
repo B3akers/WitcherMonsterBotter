@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WitcherMonsterBotter.Core.Geo
 {
-    class Localization
+    class Location
     {
         public const int CELL_LEVEL = 14;
         public static List<ulong> GetPlayerCells(double lat, double lng)

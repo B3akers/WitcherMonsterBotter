@@ -1,0 +1,35 @@
+[
+  {
+    "city": "Yangor", 
+    "lat": "-0.5333", 
+    "lng": "166.9167", 
+    "country": "Nauru", 
+    "iso2": "NR", 
+    "admin_name": "Aiwo", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Mueoen", 
+    "lat": "-0.5167", 
+    "lng": "166.9167", 
+    "country": "Nauru", 
+    "iso2": "NR", 
+    "admin_name": "Nibok", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ronave", 
+    "lat": "-0.5042", 
+    "lng": "166.9417", 
+    "country": "Nauru", 
+    "iso2": "NR", 
+    "admin_name": "Ijuw", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

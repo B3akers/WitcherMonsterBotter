@@ -1,0 +1,189 @@
+[
+  {
+    "city": "Kingston", 
+    "lat": "17.9714", 
+    "lng": "-76.7931", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Kingston", 
+    "capital": "primary", 
+    "population": "580000", 
+    "population_proper": "580000"
+  }, 
+  {
+    "city": "Portmore", 
+    "lat": "17.9667", 
+    "lng": "-76.8667", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Catherine", 
+    "capital": "", 
+    "population": "170000", 
+    "population_proper": "170000"
+  }, 
+  {
+    "city": "May Pen", 
+    "lat": "17.9500", 
+    "lng": "-77.2500", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Clarendon", 
+    "capital": "admin", 
+    "population": "135142", 
+    "population_proper": "44755"
+  }, 
+  {
+    "city": "Spanish Town", 
+    "lat": "17.9961", 
+    "lng": "-76.9547", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Catherine", 
+    "capital": "admin", 
+    "population": "131056", 
+    "population_proper": "131056"
+  }, 
+  {
+    "city": "Montego Bay", 
+    "lat": "18.4667", 
+    "lng": "-77.9167", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint James", 
+    "capital": "admin", 
+    "population": "110115", 
+    "population_proper": "110115"
+  }, 
+  {
+    "city": "Half Way Tree", 
+    "lat": "18.0106", 
+    "lng": "-76.7975", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Andrew", 
+    "capital": "admin", 
+    "population": "96494", 
+    "population_proper": "96494"
+  }, 
+  {
+    "city": "Mandeville", 
+    "lat": "18.0417", 
+    "lng": "-77.5072", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Manchester", 
+    "capital": "admin", 
+    "population": "48317", 
+    "population_proper": "48317"
+  }, 
+  {
+    "city": "Old Harbour", 
+    "lat": "17.9414", 
+    "lng": "-77.1090", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Catherine", 
+    "capital": "", 
+    "population": "28665", 
+    "population_proper": "28665"
+  }, 
+  {
+    "city": "Linstead", 
+    "lat": "18.1500", 
+    "lng": "-77.0167", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Catherine", 
+    "capital": "", 
+    "population": "22757", 
+    "population_proper": "22757"
+  }, 
+  {
+    "city": "Savanna-la-Mar", 
+    "lat": "18.2167", 
+    "lng": "-78.1333", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Westmoreland", 
+    "capital": "admin", 
+    "population": "22600", 
+    "population_proper": "22600"
+  }, 
+  {
+    "city": "Port Antonio", 
+    "lat": "18.1667", 
+    "lng": "-76.4500", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Portland", 
+    "capital": "admin", 
+    "population": "14400", 
+    "population_proper": "14400"
+  }, 
+  {
+    "city": "Saint Ann’s Bay", 
+    "lat": "18.4350", 
+    "lng": "-77.2017", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Ann", 
+    "capital": "admin", 
+    "population": "13671", 
+    "population_proper": "13671"
+  }, 
+  {
+    "city": "Port Maria", 
+    "lat": "18.3703", 
+    "lng": "-76.8903", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Mary", 
+    "capital": "admin", 
+    "population": "7906", 
+    "population_proper": "7906"
+  }, 
+  {
+    "city": "Falmouth", 
+    "lat": "18.4936", 
+    "lng": "-77.6558", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Trelawny", 
+    "capital": "admin", 
+    "population": "7779", 
+    "population_proper": "7779"
+  }, 
+  {
+    "city": "Lucea", 
+    "lat": "18.4509", 
+    "lng": "-78.1736", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Hanover", 
+    "capital": "admin", 
+    "population": "6002", 
+    "population_proper": "6002"
+  }, 
+  {
+    "city": "Black River", 
+    "lat": "18.0264", 
+    "lng": "-77.8487", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Elizabeth", 
+    "capital": "admin", 
+    "population": "4261", 
+    "population_proper": "4261"
+  }, 
+  {
+    "city": "Morant Bay", 
+    "lat": "17.8814", 
+    "lng": "-76.4092", 
+    "country": "Jamaica", 
+    "iso2": "JM", 
+    "admin_name": "Saint Thomas", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

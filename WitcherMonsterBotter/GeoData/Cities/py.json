@@ -1,0 +1,200 @@
+[
+  {
+    "city": "Asunción", 
+    "lat": "-25.3000", 
+    "lng": "-57.6333", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Asunción", 
+    "capital": "primary", 
+    "population": "1870000", 
+    "population_proper": "11693"
+  }, 
+  {
+    "city": "Ciudad del Este", 
+    "lat": "-25.5167", 
+    "lng": "-54.6167", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Alto Paraná", 
+    "capital": "admin", 
+    "population": "304282", 
+    "population_proper": "304282"
+  }, 
+  {
+    "city": "Encarnación", 
+    "lat": "-27.3333", 
+    "lng": "-55.8667", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Itapúa", 
+    "capital": "admin", 
+    "population": "136308", 
+    "population_proper": "136308"
+  }, 
+  {
+    "city": "Pedro Juan Caballero", 
+    "lat": "-22.5667", 
+    "lng": "-55.7167", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Amambay", 
+    "capital": "admin", 
+    "population": "122190", 
+    "population_proper": "122190"
+  }, 
+  {
+    "city": "Coronel Oviedo", 
+    "lat": "-25.4500", 
+    "lng": "-56.4400", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Caaguazú", 
+    "capital": "admin", 
+    "population": "88101", 
+    "population_proper": "51286"
+  }, 
+  {
+    "city": "Concepción", 
+    "lat": "-23.4025", 
+    "lng": "-57.4414", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Concepción", 
+    "capital": "admin", 
+    "population": "87215", 
+    "population_proper": "87215"
+  }, 
+  {
+    "city": "Areguá", 
+    "lat": "-25.3000", 
+    "lng": "-57.4169", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Central", 
+    "capital": "admin", 
+    "population": "77652", 
+    "population_proper": "77652"
+  }, 
+  {
+    "city": "Villarrica", 
+    "lat": "-25.7500", 
+    "lng": "-56.4333", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Guairá", 
+    "capital": "admin", 
+    "population": "41157", 
+    "population_proper": "41157"
+  }, 
+  {
+    "city": "Salto del Guairá", 
+    "lat": "-24.0200", 
+    "lng": "-54.3400", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Canindeyú", 
+    "capital": "admin", 
+    "population": "37600", 
+    "population_proper": "37600"
+  }, 
+  {
+    "city": "San Pedro de Ycuamandiyú", 
+    "lat": "-24.1000", 
+    "lng": "-57.0833", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "San Pedro", 
+    "capital": "admin", 
+    "population": "35021", 
+    "population_proper": "35021"
+  }, 
+  {
+    "city": "Pilar", 
+    "lat": "-26.8569", 
+    "lng": "-58.3039", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Ñeembucú", 
+    "capital": "admin", 
+    "population": "32810", 
+    "population_proper": "32810"
+  }, 
+  {
+    "city": "Caacupé", 
+    "lat": "-25.3870", 
+    "lng": "-57.1400", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Cordillera", 
+    "capital": "admin", 
+    "population": "21696", 
+    "population_proper": "21696"
+  }, 
+  {
+    "city": "Paraguarí", 
+    "lat": "-25.6200", 
+    "lng": "-57.1600", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Paraguarí", 
+    "capital": "admin", 
+    "population": "18881", 
+    "population_proper": "10079"
+  }, 
+  {
+    "city": "Filadelfia", 
+    "lat": "-22.3333", 
+    "lng": "-60.0167", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Boquerón", 
+    "capital": "admin", 
+    "population": "18210", 
+    "population_proper": "18210"
+  }, 
+  {
+    "city": "Villa Hayes", 
+    "lat": "-25.0900", 
+    "lng": "-57.5300", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Presidente Hayes", 
+    "capital": "admin", 
+    "population": "15643", 
+    "population_proper": "15643"
+  }, 
+  {
+    "city": "San Juan Bautista", 
+    "lat": "-26.6800", 
+    "lng": "-57.1500", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Misiones", 
+    "capital": "admin", 
+    "population": "7882", 
+    "population_proper": "7882"
+  }, 
+  {
+    "city": "Caazapá", 
+    "lat": "-26.2000", 
+    "lng": "-56.3800", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Caazapá", 
+    "capital": "admin", 
+    "population": "5504", 
+    "population_proper": "5504"
+  }, 
+  {
+    "city": "Fuerte Olimpo", 
+    "lat": "-21.0696", 
+    "lng": "-57.9000", 
+    "country": "Paraguay", 
+    "iso2": "PY", 
+    "admin_name": "Alto Paraguay", 
+    "capital": "admin", 
+    "population": "2475", 
+    "population_proper": "2475"
+  }
+]

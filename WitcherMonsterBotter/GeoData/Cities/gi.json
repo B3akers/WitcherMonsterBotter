@@ -1,0 +1,24 @@
+[
+  {
+    "city": "Catalan Bay", 
+    "lat": "36.1333", 
+    "lng": "-5.3333", 
+    "country": "Gibraltar", 
+    "iso2": "GI", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Gibraltar", 
+    "lat": "36.1324", 
+    "lng": "-5.3781", 
+    "country": "Gibraltar", 
+    "iso2": "GI", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "187083", 
+    "population_proper": "26544"
+  }
+]

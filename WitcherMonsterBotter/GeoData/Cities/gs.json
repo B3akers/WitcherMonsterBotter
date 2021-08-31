@@ -1,0 +1,24 @@
+[
+  {
+    "city": "Grytviken", 
+    "lat": "-54.2806", 
+    "lng": "-36.5080", 
+    "country": "South Georgia And South Sandwich Islands", 
+    "iso2": "GS", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "99", 
+    "population_proper": "99"
+  }, 
+  {
+    "city": "Stromness", 
+    "lat": "-54.1561", 
+    "lng": "-36.7161", 
+    "country": "South Georgia And South Sandwich Islands", 
+    "iso2": "GS", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

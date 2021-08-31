@@ -1,0 +1,123 @@
+[
+  {
+    "city": "Oranjestad", 
+    "lat": "12.5186", 
+    "lng": "-70.0358", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "34980", 
+    "population_proper": "34980"
+  }, 
+  {
+    "city": "Tanki Leendert", 
+    "lat": "12.5418", 
+    "lng": "-70.0220", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "21495", 
+    "population_proper": "21495"
+  }, 
+  {
+    "city": "San Nicolas", 
+    "lat": "12.4362", 
+    "lng": "-69.9071", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Paradera", 
+    "lat": "12.5351", 
+    "lng": "-70.0069", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Brasil", 
+    "lat": "12.4480", 
+    "lng": "-69.9254", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Tanki Flip", 
+    "lat": "12.5459", 
+    "lng": "-70.0307", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Noord", 
+    "lat": "12.5660", 
+    "lng": "-70.0320", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Pos Chiquito", 
+    "lat": "12.4650", 
+    "lng": "-69.9623", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Savaneta", 
+    "lat": "12.4503", 
+    "lng": "-69.9381", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Sint Anna", 
+    "lat": "12.5667", 
+    "lng": "-70.0333", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Santa Cruz", 
+    "lat": "12.5095", 
+    "lng": "-69.9810", 
+    "country": "Aruba", 
+    "iso2": "AW", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

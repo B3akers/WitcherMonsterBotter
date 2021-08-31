@@ -41,7 +41,7 @@ namespace WitcherMonsterBotter.Core.Connection
                 FarmIngredientsWorker = new(this);
                 MonsterSlayerWorker = new(this);
                 InventoryWorker = new(this);
-                LocalizationWorker = new(this);
+                LocationWorker = new(this);
                 BrewerWorker = new(this);
                 CharacterWorker = new(this);
                 NestFarmingWorker = new(this);
@@ -69,7 +69,7 @@ namespace WitcherMonsterBotter.Core.Connection
         public FarmIngredientsWorker FarmIngredientsWorker;
         public MonsterSlayerWorker MonsterSlayerWorker;
         public InventoryWorker InventoryWorker;
-        public LocalizationWorker LocalizationWorker;
+        public LocationWorker LocationWorker;
         public BrewerWorker BrewerWorker;
         public CharacterWorker CharacterWorker;
         public NestFarmingWorker NestFarmingWorker;
@@ -85,7 +85,10 @@ namespace WitcherMonsterBotter.Core.Connection
 
                 if (readedBytes != 5)
                 {
-                    Logger.Log(Logger.LogType.ERROR, $"We coudn't read packet header {readedBytes}!");
+                    //Handle reconnect
+                    //
+
+                    Logger.Log(Logger.LogType.ERROR, $"We coudn't read packet header {readedBytes} {_client.Connected} {_client.Available}!");
                     continue;
                 }
 

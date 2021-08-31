@@ -1,0 +1,134 @@
+[
+  {
+    "city": "Kigali", 
+    "lat": "-1.9536", 
+    "lng": "30.0606", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Kigali", 
+    "capital": "primary", 
+    "population": "1156663", 
+    "population_proper": "1156663"
+  }, 
+  {
+    "city": "Nyanza", 
+    "lat": "-2.3496", 
+    "lng": "29.7400", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Southern Province", 
+    "capital": "admin", 
+    "population": "225209", 
+    "population_proper": "225209"
+  }, 
+  {
+    "city": "Gisenyi", 
+    "lat": "-1.6928", 
+    "lng": "29.2500", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Western Province", 
+    "capital": "", 
+    "population": "136830", 
+    "population_proper": "136830"
+  }, 
+  {
+    "city": "Gitarama", 
+    "lat": "-2.0696", 
+    "lng": "29.7600", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Southern Province", 
+    "capital": "", 
+    "population": "87613", 
+    "population_proper": "87613"
+  }, 
+  {
+    "city": "Ruhengeri", 
+    "lat": "-1.4944", 
+    "lng": "29.6417", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Northern Province", 
+    "capital": "", 
+    "population": "59333", 
+    "population_proper": "59333"
+  }, 
+  {
+    "city": "Butare", 
+    "lat": "-2.6000", 
+    "lng": "29.7500", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Southern Province", 
+    "capital": "", 
+    "population": "50220", 
+    "population_proper": "50220"
+  }, 
+  {
+    "city": "Muhanga", 
+    "lat": "-2.0783", 
+    "lng": "29.7581", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Southern Province", 
+    "capital": "", 
+    "population": "49038", 
+    "population_proper": "49038"
+  }, 
+  {
+    "city": "Kabuga", 
+    "lat": "-1.9765", 
+    "lng": "30.2247", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Kigali", 
+    "capital": "", 
+    "population": "40202", 
+    "population_proper": "40202"
+  }, 
+  {
+    "city": "Byumba", 
+    "lat": "-1.5794", 
+    "lng": "30.0694", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Northern Province", 
+    "capital": "admin", 
+    "population": "34544", 
+    "population_proper": "34544"
+  }, 
+  {
+    "city": "Cyangugu", 
+    "lat": "-2.4833", 
+    "lng": "28.8967", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Western Province", 
+    "capital": "", 
+    "population": "27416", 
+    "population_proper": "27416"
+  }, 
+  {
+    "city": "Rwamagana", 
+    "lat": "-1.9525", 
+    "lng": "30.4378", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Eastern Province", 
+    "capital": "admin", 
+    "population": "18009", 
+    "population_proper": "18009"
+  }, 
+  {
+    "city": "Kibuye", 
+    "lat": "-2.0594", 
+    "lng": "29.3481", 
+    "country": "Rwanda", 
+    "iso2": "RW", 
+    "admin_name": "Western Province", 
+    "capital": "admin", 
+    "population": "12325", 
+    "population_proper": "12325"
+  }
+]

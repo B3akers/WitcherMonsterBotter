@@ -50,7 +50,11 @@ namespace WitcherMonsterBotter.Bot.Farm
                 if (battleResult == null)
                 {
                     Logger.Log(Logger.LogType.WARNING, "We coudn't find proper monster in our area changing location...");
-                    _client.LocalizationWorker.RequestLocationUpdate = true;
+                  
+                    var newLocationResult = await _client.LocationWorker.GetLocationForMonsters(monstersToFarm.Keys.ToList());
+                    if (newLocationResult.Item1)
+                        _client.LocationWorker.UpdateLocation(newLocationResult.Item2, newLocationResult.Item3);
+
                     return false;
                 }
 
@@ -120,7 +124,7 @@ namespace WitcherMonsterBotter.Bot.Farm
             Logger.Log(Logger.LogType.INFO, "Herb farming...");
 
             var herbDtopTable = _client.StaticGameData.herb_ingredients.Where(x => ingredients.Keys.Contains(x.ingredient_id)).ToList();
-            var herbs = _client.LocalizationWorker.GetHerbs();
+            var herbs = _client.LocationWorker.GetHerbs();
 
             HERB_FARM:
             if (herbDtopTable.Count > 0)
@@ -133,13 +137,30 @@ namespace WitcherMonsterBotter.Bot.Farm
                     var resultGather = await _client.Handler.GatherHerb(herb.Entity.InstanceId);
                     if (resultGather.Success)
                     {
+                        Dictionary<int, int> herbsToRemove = new();
+
                         foreach (var item in resultGather.Loot)
                         {
                             if (ingredients.ContainsKey(item))
                             {
                                 ingredients[item]--;
                             }
+                            else
+                            {
+                                if (herbsToRemove.TryGetValue(item, out int count))
+                                {
+                                    count++;
+                                }
+                                else
+                                {
+                                    count = 1;
+                                }
+
+                                herbsToRemove[item] = count;
+                            }
                         }
+
+                        await _client.MonsterSlayerWorker.DropItems(herbsToRemove);
 
                         List<int> ingredientsToRemove = new();
 
@@ -165,7 +186,11 @@ namespace WitcherMonsterBotter.Bot.Farm
                 else
                 {
                     Logger.Log(Logger.LogType.WARNING, "We coudn't find proper herb in our area changing location...");
-                    _client.LocalizationWorker.RequestLocationUpdate = true;
+                  
+                    var locationResult = await Geo.GeoLocationFinder.FindLocation(true, new int[] { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 });
+                    if (locationResult.Item1)
+                        _client.LocationWorker.UpdateLocation(locationResult.Item2, locationResult.Item3);
+
                     return false;
                 }
             }

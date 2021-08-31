@@ -1,0 +1,189 @@
+[
+  {
+    "city": "Monrovia", 
+    "lat": "6.3106", 
+    "lng": "-10.8047", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Montserrado", 
+    "capital": "primary", 
+    "population": "1021762", 
+    "population_proper": "1021762"
+  }, 
+  {
+    "city": "Upper Buchanan", 
+    "lat": "5.9161", 
+    "lng": "-10.0525", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Grand Bassa", 
+    "capital": "", 
+    "population": "48315", 
+    "population_proper": "25731"
+  }, 
+  {
+    "city": "Gbarnga", 
+    "lat": "7.0104", 
+    "lng": "-9.4900", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Bong", 
+    "capital": "admin", 
+    "population": "45835", 
+    "population_proper": "17878"
+  }, 
+  {
+    "city": "Kakata", 
+    "lat": "6.5300", 
+    "lng": "-10.3517", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Margibi", 
+    "capital": "admin", 
+    "population": "33945", 
+    "population_proper": "33945"
+  }, 
+  {
+    "city": "Harper", 
+    "lat": "4.3754", 
+    "lng": "-7.7170", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Maryland", 
+    "capital": "admin", 
+    "population": "32661", 
+    "population_proper": "17837"
+  }, 
+  {
+    "city": "Voinjama", 
+    "lat": "8.4167", 
+    "lng": "-9.7500", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Lofa", 
+    "capital": "admin", 
+    "population": "26594", 
+    "population_proper": "26594"
+  }, 
+  {
+    "city": "Zwedru", 
+    "lat": "6.0704", 
+    "lng": "-8.1300", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Grand Gedeh", 
+    "capital": "admin", 
+    "population": "25678", 
+    "population_proper": "13241"
+  }, 
+  {
+    "city": "Robertsport", 
+    "lat": "6.7533", 
+    "lng": "-11.3686", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Grand Cape Mount", 
+    "capital": "admin", 
+    "population": "11969", 
+    "population_proper": "3933"
+  }, 
+  {
+    "city": "Sanniquellie", 
+    "lat": "7.3710", 
+    "lng": "-8.6850", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Nimba", 
+    "capital": "admin", 
+    "population": "11415", 
+    "population_proper": "11415"
+  }, 
+  {
+    "city": "Greenville", 
+    "lat": "5.0111", 
+    "lng": "-9.0388", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Sinoe", 
+    "capital": "admin", 
+    "population": "10374", 
+    "population_proper": "10374"
+  }, 
+  {
+    "city": "Bensonville", 
+    "lat": "6.4456", 
+    "lng": "-10.6097", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Montserrado", 
+    "capital": "admin", 
+    "population": "4089", 
+    "population_proper": "4089"
+  }, 
+  {
+    "city": "Barclayville", 
+    "lat": "4.8000", 
+    "lng": "-8.1667", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Grand Kru", 
+    "capital": "admin", 
+    "population": "2733", 
+    "population_proper": "2733"
+  }, 
+  {
+    "city": "Cestos City", 
+    "lat": "5.4697", 
+    "lng": "-9.5817", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "River Cess", 
+    "capital": "admin", 
+    "population": "2578", 
+    "population_proper": "2578"
+  }, 
+  {
+    "city": "Buchanan", 
+    "lat": "5.8833", 
+    "lng": "-10.0500", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Grand Bassa", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Tubmanburg", 
+    "lat": "6.8706", 
+    "lng": "-10.8211", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Bomi", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Fish Town", 
+    "lat": "5.1974", 
+    "lng": "-7.8758", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "River Gee", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Bopolu", 
+    "lat": "7.0667", 
+    "lng": "-10.4875", 
+    "country": "Liberia", 
+    "iso2": "LR", 
+    "admin_name": "Gbarpolu", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

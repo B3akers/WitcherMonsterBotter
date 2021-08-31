@@ -1,0 +1,134 @@
+[
+  {
+    "city": "Addis Ababa", 
+    "lat": "9.0272", 
+    "lng": "38.7369", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Ādīs Ābeba", 
+    "capital": "primary", 
+    "population": "3041002", 
+    "population_proper": "3041002"
+  }, 
+  {
+    "city": "Nazrēt", 
+    "lat": "8.5500", 
+    "lng": "39.2700", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Oromīya", 
+    "capital": "", 
+    "population": "476892", 
+    "population_proper": "213995"
+  }, 
+  {
+    "city": "Gonder", 
+    "lat": "12.6000", 
+    "lng": "37.4667", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Āmara", 
+    "capital": "", 
+    "population": "323900", 
+    "population_proper": "323900"
+  }, 
+  {
+    "city": "Mekele", 
+    "lat": "13.4969", 
+    "lng": "39.4769", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Tigray", 
+    "capital": "admin", 
+    "population": "323700", 
+    "population_proper": "323700"
+  }, 
+  {
+    "city": "Āwasa", 
+    "lat": "7.0500", 
+    "lng": "38.4667", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch", 
+    "capital": "admin", 
+    "population": "300100", 
+    "population_proper": "300100"
+  }, 
+  {
+    "city": "Dire Dawa", 
+    "lat": "9.5833", 
+    "lng": "41.8667", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Dirē Dawa", 
+    "capital": "admin", 
+    "population": "277000", 
+    "population_proper": "277000"
+  }, 
+  {
+    "city": "Bahir Dar", 
+    "lat": "11.5850", 
+    "lng": "37.3900", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Āmara", 
+    "capital": "admin", 
+    "population": "243300", 
+    "population_proper": "243300"
+  }, 
+  {
+    "city": "Harar", 
+    "lat": "9.3200", 
+    "lng": "42.1500", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Hārerī Hizb", 
+    "capital": "admin", 
+    "population": "174994", 
+    "population_proper": "147306"
+  }, 
+  {
+    "city": "Jijiga", 
+    "lat": "9.3500", 
+    "lng": "42.8000", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Sumalē", 
+    "capital": "admin", 
+    "population": "159300", 
+    "population_proper": "159300"
+  }, 
+  {
+    "city": "Āsosa", 
+    "lat": "10.0670", 
+    "lng": "34.5333", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Bīnshangul Gumuz", 
+    "capital": "admin", 
+    "population": "30512", 
+    "population_proper": "17872"
+  }, 
+  {
+    "city": "Gambēla", 
+    "lat": "8.2500", 
+    "lng": "34.5833", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Gambēla Hizboch", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Semera", 
+    "lat": "11.7956", 
+    "lng": "41.0086", 
+    "country": "Ethiopia", 
+    "iso2": "ET", 
+    "admin_name": "Āfar", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

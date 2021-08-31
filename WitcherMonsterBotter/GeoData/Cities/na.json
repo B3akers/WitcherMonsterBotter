@@ -1,0 +1,178 @@
+[
+  {
+    "city": "Windhoek", 
+    "lat": "-22.5700", 
+    "lng": "17.0836", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Khomas", 
+    "capital": "primary", 
+    "population": "322500", 
+    "population_proper": "322500"
+  }, 
+  {
+    "city": "Walvisbaai", 
+    "lat": "-22.9494", 
+    "lng": "14.5069", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Erongo", 
+    "capital": "", 
+    "population": "85000", 
+    "population_proper": "85000"
+  }, 
+  {
+    "city": "Rundu", 
+    "lat": "-17.9167", 
+    "lng": "19.7667", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Kavango East", 
+    "capital": "admin", 
+    "population": "63431", 
+    "population_proper": "63431"
+  }, 
+  {
+    "city": "Swakopmund", 
+    "lat": "-22.6667", 
+    "lng": "14.5333", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Erongo", 
+    "capital": "admin", 
+    "population": "34300", 
+    "population_proper": "34300"
+  }, 
+  {
+    "city": "Katima Mulilo", 
+    "lat": "-17.5039", 
+    "lng": "24.2750", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Zambezi", 
+    "capital": "admin", 
+    "population": "28699", 
+    "population_proper": "28699"
+  }, 
+  {
+    "city": "Otjiwarongo", 
+    "lat": "-20.4642", 
+    "lng": "16.6528", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Otjozondjupa", 
+    "capital": "admin", 
+    "population": "28249", 
+    "population_proper": "28249"
+  }, 
+  {
+    "city": "Rehoboth", 
+    "lat": "-23.3167", 
+    "lng": "17.0833", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Hardap", 
+    "capital": "", 
+    "population": "25219", 
+    "population_proper": "21377"
+  }, 
+  {
+    "city": "Keetmanshoop", 
+    "lat": "-26.5833", 
+    "lng": "18.1333", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "//Karas", 
+    "capital": "admin", 
+    "population": "18900", 
+    "population_proper": "18900"
+  }, 
+  {
+    "city": "Gobabis", 
+    "lat": "-22.4500", 
+    "lng": "18.9667", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Omaheke", 
+    "capital": "admin", 
+    "population": "16321", 
+    "population_proper": "16321"
+  }, 
+  {
+    "city": "Mariental", 
+    "lat": "-24.6333", 
+    "lng": "17.9667", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Hardap", 
+    "capital": "admin", 
+    "population": "12478", 
+    "population_proper": "12478"
+  }, 
+  {
+    "city": "Opuwo", 
+    "lat": "-18.0607", 
+    "lng": "13.8400", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Kunene", 
+    "capital": "admin", 
+    "population": "4857", 
+    "population_proper": "4857"
+  }, 
+  {
+    "city": "Outapi", 
+    "lat": "-17.5028", 
+    "lng": "14.9856", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Omusati", 
+    "capital": "admin", 
+    "population": "4606", 
+    "population_proper": "4606"
+  }, 
+  {
+    "city": "Oshakati", 
+    "lat": "-17.8000", 
+    "lng": "15.6833", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Oshana", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Eenhana", 
+    "lat": "-17.4667", 
+    "lng": "16.3333", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Ohangwena", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Omuthiya", 
+    "lat": "-18.3592", 
+    "lng": "16.5795", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Oshikoto", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Nkurenkuru", 
+    "lat": "-17.6167", 
+    "lng": "18.6000", 
+    "country": "Namibia", 
+    "iso2": "NA", 
+    "admin_name": "Kavango West", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

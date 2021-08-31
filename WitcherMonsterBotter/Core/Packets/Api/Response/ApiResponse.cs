@@ -52,7 +52,7 @@ namespace WitcherMonsterBotter.Core.Packets.Api.Response
                         {
                             var methodId = reader.ReadBigEndianInt();
 
-                            if (_methodsTypes.TryGetValue(methodId, out var methodType))
+                            if (MethodsTypes.TryGetValue(methodId, out var methodType))
                             {
                                 var methodObject = Activator.CreateInstance(methodType);
 
@@ -182,7 +182,7 @@ namespace WitcherMonsterBotter.Core.Packets.Api.Response
 
         public static ApiResponse Deserialize(byte[] buffer, int methodId)
         {
-            if (_methodsTypes.TryGetValue(methodId, out var type))
+            if (MethodsTypes.TryGetValue(methodId, out var type))
             {
                 using (var ms = new MemoryStream(buffer))
                 {
@@ -227,50 +227,29 @@ namespace WitcherMonsterBotter.Core.Packets.Api.Response
 
         public abstract TypeMessage.Method GetMethodId();
 
-        private static readonly Dictionary<int, Type> _methodsTypes = new()
-        {
-            { (int)TypeMessage.Method.LoadCells, typeof(LoadCellsResponse) },
-            { (int)TypeMessage.Method.GetInitialPlayerData, typeof(GetInitialPlayerDataResponse) },
-            { (int)TypeMessage.Method.GetOneTimeShopBundles, typeof(GetOneTimeShopBundlesResponse) },
-            { (int)TypeMessage.Method.GetDailyShopBundles, typeof(GetDailyShopBundlesResponse) },
-            { (int)TypeMessage.Method.GetDailyContracts, typeof(GetDailyContractsResponse) },
-            { (int)TypeMessage.Method.GetWeeklyContractProgress, typeof(GetWeeklyContractProgressResponse) },
-            { (int)TypeMessage.Method.GetSkills, typeof(GetSkillsResponse) },
-            { (int)TypeMessage.Method.GetPlayerInfo, typeof(GetPlayerInfoResponse) },
-            { (int)TypeMessage.Method.AddGold, typeof(AddGoldResponse) },
-            { (int)TypeMessage.Method.GetKilledMonsters, typeof(GetKilledMonstersResponse) },
-            { (int)TypeMessage.Method.GetBrewers, typeof(GetBrewersResponse) },
-            { (int)TypeMessage.Method.GetKnownRecipes, typeof(GetKnownRecipesResponse) },
-            { (int)TypeMessage.Method.GetInventory, typeof(GetInventoryResponse) },
-            { (int)TypeMessage.Method.GetEquipment, typeof(GetEquipmentResponse) },
-            { (int)TypeMessage.Method.GetAchievements, typeof(GetAchievementsResponse) },
-            { (int)TypeMessage.Method.DistanceTraveled, typeof(DistanceTraveledResponse) },
-            { (int)TypeMessage.Method.GetAllFacts, typeof(GetAllFactsResponse) },
-            { (int)TypeMessage.Method.GetPlayerModifiers, typeof(GetPlayerModifiersResponse) },
-            { (int)TypeMessage.Method.GetKilledMonsterInstances, typeof(GetKilledMonsterInstancesResponse) },
-            { (int)TypeMessage.Method.GetSensedMonsters, typeof(GetSensedMonstersResponse) },
-            { (int)TypeMessage.Method.GetFinishedSeasonQuests, typeof(GetFinishedSeasonQuestsResponse) },
-            { (int)TypeMessage.Method.GetActiveQuestNodeInstances, typeof(GetActiveQuestNodeInstancesResponse) },
-            { (int)TypeMessage.Method.GetSummonedMonsters, typeof(GetSummonedMonstersResponse) },
-            { (int)TypeMessage.Method.GetLastSummoningSkillUsageTime, typeof(GetLastSummoningSkillUsageTimeResponse) },
-            { (int)TypeMessage.Method.GetLocationsByCell, typeof(GetLocationsByCellResponse) },
-            { (int)TypeMessage.Method.EncounterMonster, typeof(EncounterMonsterResponse) },
-            { (int)TypeMessage.Method.EncounterSummonedMonster, typeof(EncounterSummonedMonsterResponse) },
-            { (int)TypeMessage.Method.PrepareToCombat, typeof(PrepareToCombatResponse) },
-            { (int)TypeMessage.Method.BuyAutoEquipItems, typeof(BuyAutoEquipItemsResponse) },
-            { (int)TypeMessage.Method.CombatEndSummonedMonster, typeof(CombatEndSummonedMonsterResponse) },
-            { (int)TypeMessage.Method.DropIngredients, typeof(DropIngredientsResponse) },
-            { (int)TypeMessage.Method.CombatEnd, typeof(CombatEndResponse) },
-            { (int)TypeMessage.Method.GatherHerb, typeof(GatherHerbResponse) },
-            { (int)TypeMessage.Method.CraftItem, typeof(CraftItemResponse) },
-            { (int)TypeMessage.Method.ClaimRecipe, typeof(ClaimRecipeResponse) },
-            { (int)TypeMessage.Method.ClaimDailyQuest, typeof(ClaimDailyContractResponse) },
-            { (int)TypeMessage.Method.EncounterNest, typeof(EncounterNestResponse) },
-            { (int)TypeMessage.Method.EndNestCombat, typeof(EndNestCombatResponse) },
-            { (int)TypeMessage.Method.ThrowBomb, typeof(ThrowBombResponse) },
-            { (int)TypeMessage.Method.DailyContractCompleted, typeof(DailyContractCompletedResponse) },
-            { (int)TypeMessage.Method.SetName, typeof(SetNameResponse) }
+        private static Dictionary<int, Type> _methodsTypes = null;
 
-        };
+        public static Dictionary<int, Type> MethodsTypes
+        {
+            get
+            {
+                if (_methodsTypes == null)
+                {
+                    _methodsTypes = new Dictionary<int, Type>();
+
+                    var type = typeof(ApiResponse);
+                    var responsePackets = AppDomain.CurrentDomain.GetAssemblies().SelectMany(s => s.GetTypes()).Where(p => type.IsAssignableFrom(p) && !p.IsAbstract);
+
+                    foreach (var response in responsePackets)
+                    {
+                        var instance = Activator.CreateInstance(response);
+                        var methodId = ((ApiResponse)instance).GetMethodId();
+                        _methodsTypes.Add((int)methodId, response);
+                    }
+                }
+
+                return _methodsTypes;
+            }
+        }
     }
 }

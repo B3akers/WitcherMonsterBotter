@@ -1,0 +1,211 @@
+[
+  {
+    "city": "Djibouti", 
+    "lat": "11.5950", 
+    "lng": "43.1481", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Djibouti", 
+    "capital": "primary", 
+    "population": "562000", 
+    "population_proper": "562000"
+  }, 
+  {
+    "city": "Ali Sabieh", 
+    "lat": "11.1558", 
+    "lng": "42.7125", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "admin", 
+    "population": "37939", 
+    "population_proper": "37939"
+  }, 
+  {
+    "city": "Dikhil", 
+    "lat": "11.1086", 
+    "lng": "42.3667", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Dikhil", 
+    "capital": "admin", 
+    "population": "35000", 
+    "population_proper": "35000"
+  }, 
+  {
+    "city": "Obock", 
+    "lat": "11.9667", 
+    "lng": "43.2833", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Obock", 
+    "capital": "admin", 
+    "population": "21200", 
+    "population_proper": "21200"
+  }, 
+  {
+    "city": "Tadjourah", 
+    "lat": "11.7833", 
+    "lng": "42.8833", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Tadjourah", 
+    "capital": "admin", 
+    "population": "14820", 
+    "population_proper": "14820"
+  }, 
+  {
+    "city": "Ambouli", 
+    "lat": "11.5694", 
+    "lng": "43.1367", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Djibouti", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Arta", 
+    "lat": "11.5264", 
+    "lng": "42.8519", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Arta", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Loyada", 
+    "lat": "11.4611", 
+    "lng": "43.2528", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Arta", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Deda’-etu", 
+    "lat": "12.3667", 
+    "lng": "42.7000", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Obock", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Holhol", 
+    "lat": "11.3103", 
+    "lng": "42.9294", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ḏânan", 
+    "lat": "11.1833", 
+    "lng": "42.9333", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Goubétto", 
+    "lat": "11.4239", 
+    "lng": "43.0003", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "‘Ali ‘Addé", 
+    "lat": "11.1333", 
+    "lng": "42.8858", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Goubéto", 
+    "lat": "11.4167", 
+    "lng": "42.9833", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ḏigri", 
+    "lat": "11.2975", 
+    "lng": "42.8533", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Vasama", 
+    "lat": "10.9891", 
+    "lng": "42.8412", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Ali Sabieh", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ouê‘a", 
+    "lat": "11.5031", 
+    "lng": "42.8553", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Arta", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Damêrdjôg", 
+    "lat": "11.4856", 
+    "lng": "43.1872", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Arta", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Airolaf", 
+    "lat": "11.7703", 
+    "lng": "42.6519", 
+    "country": "Djibouti", 
+    "iso2": "DJ", 
+    "admin_name": "Tadjourah", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

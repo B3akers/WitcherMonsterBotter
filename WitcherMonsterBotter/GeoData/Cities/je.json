@@ -1,0 +1,178 @@
+[
+  {
+    "city": "Saint Helier", 
+    "lat": "49.1833", 
+    "lng": "-2.1167", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "33522", 
+    "population_proper": "33522"
+  }, 
+  {
+    "city": "Ville ès Nouaux", 
+    "lat": "49.1947", 
+    "lng": "-2.1286", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Longueville", 
+    "lat": "49.1833", 
+    "lng": "-2.0833", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Millbrook", 
+    "lat": "49.1986", 
+    "lng": "-2.1383", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Grand Chemins", 
+    "lat": "49.2000", 
+    "lng": "-2.0667", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Mont Fiquet", 
+    "lat": "49.1797", 
+    "lng": "-2.2142", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Saint Aubin", 
+    "lat": "49.1875", 
+    "lng": "-2.1706", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Belle Vue", 
+    "lat": "49.1914", 
+    "lng": "-2.1731", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "La Moye", 
+    "lat": "49.1822", 
+    "lng": "-2.2222", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Les Creux", 
+    "lat": "49.1806", 
+    "lng": "-2.2056", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "La Fosse", 
+    "lat": "49.1747", 
+    "lng": "-2.1806", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "La Haule", 
+    "lat": "49.1833", 
+    "lng": "-2.1833", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Bel Royal", 
+    "lat": "49.1981", 
+    "lng": "-2.1472", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ville des Quennevais", 
+    "lat": "49.2019", 
+    "lng": "-2.2003", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Lower Blanc Pignon", 
+    "lat": "49.1947", 
+    "lng": "-2.1622", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Beaumont", 
+    "lat": "49.1964", 
+    "lng": "-2.1586", 
+    "country": "Jersey", 
+    "iso2": "JE", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

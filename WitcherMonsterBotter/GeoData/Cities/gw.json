@@ -1,0 +1,101 @@
+[
+  {
+    "city": "Bissau", 
+    "lat": "11.8592", 
+    "lng": "-15.5956", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Bissau", 
+    "capital": "primary", 
+    "population": "395954", 
+    "population_proper": "395954"
+  }, 
+  {
+    "city": "Farim", 
+    "lat": "12.4833", 
+    "lng": "-15.2167", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Oio", 
+    "capital": "admin", 
+    "population": "46268", 
+    "population_proper": "46268"
+  }, 
+  {
+    "city": "Quinhámel", 
+    "lat": "11.8869", 
+    "lng": "-15.8556", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Biombo", 
+    "capital": "admin", 
+    "population": "42659", 
+    "population_proper": "42659"
+  }, 
+  {
+    "city": "Catió", 
+    "lat": "11.2833", 
+    "lng": "-15.2500", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Tombali", 
+    "capital": "admin", 
+    "population": "26999", 
+    "population_proper": "26999"
+  }, 
+  {
+    "city": "Bafatá", 
+    "lat": "12.1719", 
+    "lng": "-14.6575", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Bafatá", 
+    "capital": "admin", 
+    "population": "22501", 
+    "population_proper": "22501"
+  }, 
+  {
+    "city": "Gabú", 
+    "lat": "12.2833", 
+    "lng": "-14.2167", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Gabú", 
+    "capital": "admin", 
+    "population": "14430", 
+    "population_proper": "14430"
+  }, 
+  {
+    "city": "Cacheu", 
+    "lat": "12.2780", 
+    "lng": "-16.1650", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Cacheu", 
+    "capital": "admin", 
+    "population": "5674", 
+    "population_proper": "5674"
+  }, 
+  {
+    "city": "Bolama", 
+    "lat": "11.5776", 
+    "lng": "-15.4742", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Bolama/Bijagós", 
+    "capital": "admin", 
+    "population": "4819", 
+    "population_proper": "4819"
+  }, 
+  {
+    "city": "Buba", 
+    "lat": "11.5900", 
+    "lng": "-14.9900", 
+    "country": "Guinea-Bissau", 
+    "iso2": "GW", 
+    "admin_name": "Quinara", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

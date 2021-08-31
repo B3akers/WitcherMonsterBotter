@@ -6,6 +6,8 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using WitcherMonsterBotter.Core.Connection;
@@ -17,6 +19,11 @@ namespace WitcherMonsterBotter.Core.Packets
 {
     public class PacketHandler
     {
+        private readonly static HttpClient _httpClient = new HttpClient(new HttpClientHandler
+        {
+            AutomaticDecompression = DecompressionMethods.GZip
+        });
+
         private ClientConnection _client;
         private Random _random;
 
@@ -39,9 +46,30 @@ namespace WitcherMonsterBotter.Core.Packets
             _receivedApiMessages = new();
             _callbacksStaticGameDataRequests = new();
         }
+
+        public async Task<Api.Response.GetWeeklyContractProgressResponse> GetWeeklyContractProgress()
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.GetWeeklyContractProgressResponse>((await SendApiMessage(new Api.Request.GetWeeklyContractProgressRequest())).Message.Data);
+        }
+        public async Task<Api.Response.DistanceTraveledResponse> DistanceTraveled(int param)
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.DistanceTraveledResponse>((await SendApiMessage(new Api.Request.DistanceTraveledRequest() { Param = param })).Message.Data);
+        }
+        public async Task<Api.Response.ClaimWeeklyContractResponse> ClaimWeeklyContract()
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.ClaimWeeklyContractResponse>((await SendApiMessage(new Api.Request.ClaimWeeklyContractRequest())).Message.Data);
+        }
         public async Task<Api.Response.SetNameResponse> SetName(string name)
         {
             return Api.Response.ApiResponse.Deserialize<Api.Response.SetNameResponse>((await SendApiMessage(new Api.Request.SetNameRequest() { Name = name })).Message.Data);
+        }
+        public async Task<Api.Response.SpawnMonsterResponse> SpawnMonster(float latitude, float longitude, int type, int level, int ttl)
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.SpawnMonsterResponse>((await SendApiMessage(new Api.Request.SpawnMonsterRequest() { Latitude = latitude, Longitude = longitude, Type = type, Level = level, Ttl = ttl })).Message.Data);
+        }
+        public async Task<Api.Response.ClaimMonsterKnowledgeRewardResponse> ClaimMonsterKnowledgeReward(int monsterId)
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.ClaimMonsterKnowledgeRewardResponse>((await SendApiMessage(new Api.Request.ClaimMonsterKnowledgeRewardRequest() { MonsterId = monsterId })).Message.Data);
         }
         public async Task<Api.Response.CombatEndResponse> CombatEnd(bool win, int[] details, bool surrender)
         {
@@ -107,6 +135,22 @@ namespace WitcherMonsterBotter.Core.Packets
         {
             return Api.Response.ApiResponse.Deserialize<Api.Response.DropIngredientsResponse>((await SendApiMessage(new Api.Request.DropIngredientsRequest() { ItemId = itemId, Amount = amount })).Message.Data);
         }
+        public async Task<Api.Response.DropFriendPackResponse> DropFriendPack(int itemId, int amount)
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.DropFriendPackResponse>((await SendApiMessage(new Api.Request.DropFriendPackRequest() { ItemId = itemId, Amount = amount })).Message.Data);
+        }
+        public async Task<Api.Response.DropBombResponse> DropBomb(int itemId, int amount)
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.DropBombResponse>((await SendApiMessage(new Api.Request.DropBombRequest() { ItemId = itemId, Amount = amount })).Message.Data);
+        }
+        public async Task<Api.Response.DropOilResponse> DropOil(int itemId, int amount)
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.DropOilResponse>((await SendApiMessage(new Api.Request.DropOilRequest() { ItemId = itemId, Amount = amount })).Message.Data);
+        }
+        public async Task<Api.Response.DropPotionResponse> DropPotion(int itemId, int amount)
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.DropPotionResponse>((await SendApiMessage(new Api.Request.DropPotionRequest() { ItemId = itemId, Amount = amount })).Message.Data);
+        }
         public async Task<Api.Response.GatherHerbResponse> GatherHerb(long instanceId)
         {
             return Api.Response.ApiResponse.Deserialize<Api.Response.GatherHerbResponse>((await SendApiMessage(new Api.Request.GatherHerbRequest() { InstanceId = instanceId })).Message.Data);
@@ -131,6 +175,15 @@ namespace WitcherMonsterBotter.Core.Packets
         {
             return Api.Response.ApiResponse.Deserialize<Api.Response.GetPlayerInfoResponse>((await SendApiMessage(new Api.Request.GetPlayerInfoRequest())).Message.Data);
         }
+        public async Task<Api.Response.AddDailyContractResponse> AddDailyContract()
+        {
+            return Api.Response.ApiResponse.Deserialize<Api.Response.AddDailyContractResponse>((await SendApiMessage(new Api.Request.AddDailyContractRequest())).Message.Data);
+        }
+        public async Task<Data.Json.StaticGameDataJson> GetStaticGameDataFromUrl()
+        {
+            return JsonConvert.DeserializeObject<Data.Json.StaticGameDataJson>(await _httpClient.GetStringAsync(await GetStaticDataUrl()));
+        }
+
         public async Task<Data.Json.StaticGameDataJson> FetchStaticGameData()
         {
             return JsonConvert.DeserializeObject<Data.Json.StaticGameDataJson>(
@@ -142,7 +195,6 @@ namespace WitcherMonsterBotter.Core.Packets
                             Data)
                     ));
         }
-
         public async Task<string> GetStaticDataUrl()
         {
             return Api.Response.ApiResponse.Deserialize<StaticGameData.GetStaticDataUrlResponse>(
@@ -150,7 +202,6 @@ namespace WitcherMonsterBotter.Core.Packets
                 .Data)
                 .StaticDataUrl;
         }
-
         private async Task<StaticGameData.StaticGameDataMessage> SendStaticGameDataMessage(StaticGameData.StaticGameDataRequest request)
         {
             var message = new StaticGameData.StaticGameDataMessage() { MethodId = request.GetMethodId(), Data = request.GetData() };
@@ -163,7 +214,6 @@ namespace WitcherMonsterBotter.Core.Packets
 
             return (StaticGameData.StaticGameDataMessage)(await task);
         }
-
         private async Task<Api.ApiMessage> SendApiMessage(Api.Request.ApiRequest apiRequest)
         {
             var typeMessage = new Api.TypeMessage() { Id = GetRandomLong(), Data = apiRequest.Serialize(), MethodId = (int)apiRequest.GetMethodId() };
@@ -190,14 +240,12 @@ namespace WitcherMonsterBotter.Core.Packets
 
             return (Api.ApiMessage)(await task);
         }
-
         private long GetRandomLong()
         {
             var buffer = new byte[8];
             _random.NextBytes(buffer);
             return BitConverter.ToInt64(buffer);
         }
-
         private void HandleAuthMessage(AuthMessage message)
         {
             switch (message.MethodId)

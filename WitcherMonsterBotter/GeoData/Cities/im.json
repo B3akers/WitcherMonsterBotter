@@ -1,0 +1,189 @@
+[
+  {
+    "city": "Douglas", 
+    "lat": "54.1500", 
+    "lng": "-4.4819", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "35854", 
+    "population_proper": "26218"
+  }, 
+  {
+    "city": "Port Erin", 
+    "lat": "54.0860", 
+    "lng": "-4.7560", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "3530", 
+    "population_proper": "3530"
+  }, 
+  {
+    "city": "Castletown", 
+    "lat": "54.0742", 
+    "lng": "-4.6539", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "3100", 
+    "population_proper": "3100"
+  }, 
+  {
+    "city": "Peel", 
+    "lat": "54.2210", 
+    "lng": "-4.6910", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Port Saint Mary", 
+    "lat": "54.0749", 
+    "lng": "-4.7389", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ramsey", 
+    "lat": "54.3211", 
+    "lng": "-4.3844", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Laxey", 
+    "lat": "54.2278", 
+    "lng": "-4.4019", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Onchan", 
+    "lat": "54.1833", 
+    "lng": "-4.4500", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Colby", 
+    "lat": "54.0980", 
+    "lng": "-4.7030", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Ballabeg", 
+    "lat": "54.1000", 
+    "lng": "-4.6833", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Crosby", 
+    "lat": "54.1833", 
+    "lng": "-4.5667", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Union Mills", 
+    "lat": "54.1667", 
+    "lng": "-4.5167", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Kirk Braddon", 
+    "lat": "54.1667", 
+    "lng": "-4.5167", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Cregneish", 
+    "lat": "54.0667", 
+    "lng": "-4.7667", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Port Soderick", 
+    "lat": "54.1167", 
+    "lng": "-4.5333", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Kirkmichael", 
+    "lat": "54.2747", 
+    "lng": "-4.5503", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Jurby", 
+    "lat": "54.3500", 
+    "lng": "-4.5333", 
+    "country": "Isle Of Man", 
+    "iso2": "IM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

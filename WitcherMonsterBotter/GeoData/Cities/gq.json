@@ -1,0 +1,90 @@
+[
+  {
+    "city": "Bata", 
+    "lat": "1.8650", 
+    "lng": "9.7700", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Litoral", 
+    "capital": "admin", 
+    "population": "250770", 
+    "population_proper": "250770"
+  }, 
+  {
+    "city": "Malabo", 
+    "lat": "3.7521", 
+    "lng": "8.7737", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Bioko Norte", 
+    "capital": "primary", 
+    "population": "187302", 
+    "population_proper": "187302"
+  }, 
+  {
+    "city": "Ebebiyín", 
+    "lat": "2.1500", 
+    "lng": "11.3167", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Kié-Ntem", 
+    "capital": "admin", 
+    "population": "36565", 
+    "population_proper": "36565"
+  }, 
+  {
+    "city": "Evinayong", 
+    "lat": "1.4500", 
+    "lng": "10.5667", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Centro Sur", 
+    "capital": "admin", 
+    "population": "9155", 
+    "population_proper": "9155"
+  }, 
+  {
+    "city": "Luba", 
+    "lat": "3.4500", 
+    "lng": "8.5500", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Bioko Sur", 
+    "capital": "admin", 
+    "population": "7739", 
+    "population_proper": "7739"
+  }, 
+  {
+    "city": "Mongomo", 
+    "lat": "1.6287", 
+    "lng": "11.3168", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Wele-Nzas", 
+    "capital": "admin", 
+    "population": "7251", 
+    "population_proper": "7251"
+  }, 
+  {
+    "city": "Palé", 
+    "lat": "-1.4043", 
+    "lng": "5.6322", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Annobón", 
+    "capital": "admin", 
+    "population": "5008", 
+    "population_proper": "5008"
+  }, 
+  {
+    "city": "Djibloho", 
+    "lat": "1.5917", 
+    "lng": "10.8222", 
+    "country": "Equatorial Guinea", 
+    "iso2": "GQ", 
+    "admin_name": "Wele-Nzas", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Libreville", 
+    "lat": "0.3901", 
+    "lng": "9.4544", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Estuaire", 
+    "capital": "primary", 
+    "population": "797003", 
+    "population_proper": "797003"
+  }, 
+  {
+    "city": "Port-Gentil", 
+    "lat": "-0.7167", 
+    "lng": "8.7833", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Ogooué-Maritime", 
+    "capital": "admin", 
+    "population": "116836", 
+    "population_proper": "109163"
+  }, 
+  {
+    "city": "Oyem", 
+    "lat": "1.6000", 
+    "lng": "11.5667", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Woleu-Ntem", 
+    "capital": "admin", 
+    "population": "60685", 
+    "population_proper": "60685"
+  }, 
+  {
+    "city": "Franceville", 
+    "lat": "-1.6333", 
+    "lng": "13.5833", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Haut-Ogooué", 
+    "capital": "admin", 
+    "population": "42967", 
+    "population_proper": "39145"
+  }, 
+  {
+    "city": "Moanda", 
+    "lat": "-1.5655", 
+    "lng": "13.2000", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Haut-Ogooué", 
+    "capital": "", 
+    "population": "30151", 
+    "population_proper": "27115"
+  }, 
+  {
+    "city": "Lambaréné", 
+    "lat": "-0.6883", 
+    "lng": "10.2319", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Moyen-Ogooué", 
+    "capital": "admin", 
+    "population": "25310", 
+    "population_proper": "20714"
+  }, 
+  {
+    "city": "Mouila", 
+    "lat": "-1.8667", 
+    "lng": "11.0550", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Ngounié", 
+    "capital": "admin", 
+    "population": "22469", 
+    "population_proper": "22469"
+  }, 
+  {
+    "city": "Tchibanga", 
+    "lat": "-2.9331", 
+    "lng": "10.9831", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Nyanga", 
+    "capital": "admin", 
+    "population": "19365", 
+    "population_proper": "19365"
+  }, 
+  {
+    "city": "Makokou", 
+    "lat": "0.5667", 
+    "lng": "12.8667", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Ogooué-Ivindo", 
+    "capital": "admin", 
+    "population": "17070", 
+    "population_proper": "13571"
+  }, 
+  {
+    "city": "Koulamoutou", 
+    "lat": "-1.1333", 
+    "lng": "12.4833", 
+    "country": "Gabon", 
+    "iso2": "GA", 
+    "admin_name": "Ogooué-Lolo", 
+    "capital": "admin", 
+    "population": "16222", 
+    "population_proper": "12465"
+  }
+]

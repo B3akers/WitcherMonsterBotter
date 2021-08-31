@@ -1,0 +1,211 @@
+[
+  {
+    "city": "Nouakchott", 
+    "lat": "18.0858", 
+    "lng": "-15.9785", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "1077169", 
+    "population_proper": "1077169"
+  }, 
+  {
+    "city": "Néma", 
+    "lat": "16.6171", 
+    "lng": "-7.2500", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Hodh ech Chargui", 
+    "capital": "admin", 
+    "population": "200000", 
+    "population_proper": "55000"
+  }, 
+  {
+    "city": "Nouadhibou", 
+    "lat": "20.9500", 
+    "lng": "-17.0333", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Dakhlet Nouadhibou", 
+    "capital": "admin", 
+    "population": "118000", 
+    "population_proper": "118000"
+  }, 
+  {
+    "city": "Kiffa", 
+    "lat": "16.6164", 
+    "lng": "-11.4044", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Assaba", 
+    "capital": "admin", 
+    "population": "110714", 
+    "population_proper": "110714"
+  }, 
+  {
+    "city": "Zouerate", 
+    "lat": "22.7344", 
+    "lng": "-12.4725", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Tiris Zemmour", 
+    "capital": "admin", 
+    "population": "56345", 
+    "population_proper": "56345"
+  }, 
+  {
+    "city": "Rosso", 
+    "lat": "16.5128", 
+    "lng": "-15.8050", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Trarza", 
+    "capital": "admin", 
+    "population": "47203", 
+    "population_proper": "47203"
+  }, 
+  {
+    "city": "Atar", 
+    "lat": "20.5167", 
+    "lng": "-13.0500", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Adrar", 
+    "capital": "admin", 
+    "population": "24021", 
+    "population_proper": "24021"
+  }, 
+  {
+    "city": "Tidjikja", 
+    "lat": "18.5500", 
+    "lng": "-11.4166", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Tagant", 
+    "capital": "admin", 
+    "population": "19981", 
+    "population_proper": "19981"
+  }, 
+  {
+    "city": "Boutilimit", 
+    "lat": "17.5504", 
+    "lng": "-14.7000", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Trarza", 
+    "capital": "", 
+    "population": "14142", 
+    "population_proper": "14142"
+  }, 
+  {
+    "city": "Bogué", 
+    "lat": "16.5904", 
+    "lng": "-14.2700", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Brakna", 
+    "capital": "", 
+    "population": "10415", 
+    "population_proper": "10415"
+  }, 
+  {
+    "city": "Aleg", 
+    "lat": "17.0580", 
+    "lng": "-13.9090", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Brakna", 
+    "capital": "admin", 
+    "population": "8388", 
+    "population_proper": "8388"
+  }, 
+  {
+    "city": "Fdérik", 
+    "lat": "22.6790", 
+    "lng": "-12.7070", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Tiris Zemmour", 
+    "capital": "", 
+    "population": "5760", 
+    "population_proper": "5760"
+  }, 
+  {
+    "city": "Aioun", 
+    "lat": "16.6667", 
+    "lng": "-9.6167", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Hodh el Gharbi", 
+    "capital": "admin", 
+    "population": "1423", 
+    "population_proper": "1423"
+  }, 
+  {
+    "city": "Sélibaby", 
+    "lat": "15.1670", 
+    "lng": "-12.1833", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Guidimaka", 
+    "capital": "admin", 
+    "population": "460", 
+    "population_proper": "460"
+  }, 
+  {
+    "city": "Akjoujt", 
+    "lat": "19.7470", 
+    "lng": "-14.3910", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Inchiri", 
+    "capital": "admin", 
+    "population": "370", 
+    "population_proper": "370"
+  }, 
+  {
+    "city": "Arafat", 
+    "lat": "18.0583", 
+    "lng": "-15.9621", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Nouakchott Sud", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Tevragh Zeina", 
+    "lat": "18.0989", 
+    "lng": "-15.9885", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Nouakchott Ouest", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Dar Naim", 
+    "lat": "18.0973", 
+    "lng": "-15.9327", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Nouakchott Nord", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Kaédi", 
+    "lat": "16.1503", 
+    "lng": "-13.5037", 
+    "country": "Mauritania", 
+    "iso2": "MR", 
+    "admin_name": "Gorgol", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

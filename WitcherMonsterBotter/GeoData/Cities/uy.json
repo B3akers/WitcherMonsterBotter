@@ -1,0 +1,233 @@
+[
+  {
+    "city": "Montevideo", 
+    "lat": "-34.8667", 
+    "lng": "-56.1667", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Montevideo", 
+    "capital": "primary", 
+    "population": "1319108", 
+    "population_proper": "1319108"
+  }, 
+  {
+    "city": "Salto", 
+    "lat": "-31.3883", 
+    "lng": "-57.9606", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Salto", 
+    "capital": "admin", 
+    "population": "124878", 
+    "population_proper": "124878"
+  }, 
+  {
+    "city": "Ciudad de la Costa", 
+    "lat": "-34.8167", 
+    "lng": "-55.9500", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Canelones", 
+    "capital": "", 
+    "population": "112449", 
+    "population_proper": "112449"
+  }, 
+  {
+    "city": "Rivera", 
+    "lat": "-30.9025", 
+    "lng": "-55.5506", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Rivera", 
+    "capital": "admin", 
+    "population": "78900", 
+    "population_proper": "78900"
+  }, 
+  {
+    "city": "Paysandú", 
+    "lat": "-32.3200", 
+    "lng": "-58.0756", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Paysandú", 
+    "capital": "admin", 
+    "population": "76429", 
+    "population_proper": "76429"
+  }, 
+  {
+    "city": "Las Piedras", 
+    "lat": "-34.7167", 
+    "lng": "-56.2167", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Canelones", 
+    "capital": "", 
+    "population": "71268", 
+    "population_proper": "71268"
+  }, 
+  {
+    "city": "Melo", 
+    "lat": "-32.3595", 
+    "lng": "-54.1800", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Cerro Largo", 
+    "capital": "admin", 
+    "population": "55494", 
+    "population_proper": "51023"
+  }, 
+  {
+    "city": "Maldonado", 
+    "lat": "-34.9100", 
+    "lng": "-54.9600", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Maldonado", 
+    "capital": "admin", 
+    "population": "55478", 
+    "population_proper": "48277"
+  }, 
+  {
+    "city": "Tacuarembó", 
+    "lat": "-31.7100", 
+    "lng": "-55.9800", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Tacuarembó", 
+    "capital": "admin", 
+    "population": "54277", 
+    "population_proper": "51854"
+  }, 
+  {
+    "city": "Mercedes", 
+    "lat": "-33.2500", 
+    "lng": "-58.0319", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Soriano", 
+    "capital": "admin", 
+    "population": "41974", 
+    "population_proper": "41974"
+  }, 
+  {
+    "city": "Artigas", 
+    "lat": "-30.4667", 
+    "lng": "-56.4667", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Artigas", 
+    "capital": "admin", 
+    "population": "40658", 
+    "population_proper": "40658"
+  }, 
+  {
+    "city": "Minas", 
+    "lat": "-34.3667", 
+    "lng": "-55.2333", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Lavalleja", 
+    "capital": "admin", 
+    "population": "38446", 
+    "population_proper": "38446"
+  }, 
+  {
+    "city": "San José", 
+    "lat": "-34.3333", 
+    "lng": "-56.7167", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "San José", 
+    "capital": "admin", 
+    "population": "36747", 
+    "population_proper": "36747"
+  }, 
+  {
+    "city": "Durazno", 
+    "lat": "-33.3833", 
+    "lng": "-56.5167", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Durazno", 
+    "capital": "admin", 
+    "population": "34372", 
+    "population_proper": "34372"
+  }, 
+  {
+    "city": "Florida", 
+    "lat": "-34.1000", 
+    "lng": "-56.2167", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Florida", 
+    "capital": "admin", 
+    "population": "33640", 
+    "population_proper": "33640"
+  }, 
+  {
+    "city": "Barros Blancos", 
+    "lat": "-34.7542", 
+    "lng": "-56.0042", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Canelones", 
+    "capital": "", 
+    "population": "31650", 
+    "population_proper": "31650"
+  }, 
+  {
+    "city": "Colonia del Sacramento", 
+    "lat": "-34.4714", 
+    "lng": "-57.8442", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Colonia", 
+    "capital": "admin", 
+    "population": "26231", 
+    "population_proper": "26231"
+  }, 
+  {
+    "city": "Treinta y Tres", 
+    "lat": "-33.2308", 
+    "lng": "-54.3822", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Treinta y Tres", 
+    "capital": "admin", 
+    "population": "25477", 
+    "population_proper": "25477"
+  }, 
+  {
+    "city": "Rocha", 
+    "lat": "-34.4833", 
+    "lng": "-54.3500", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Rocha", 
+    "capital": "admin", 
+    "population": "25422", 
+    "population_proper": "25422"
+  }, 
+  {
+    "city": "Fray Bentos", 
+    "lat": "-33.1333", 
+    "lng": "-58.3000", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Río Negro", 
+    "capital": "admin", 
+    "population": "24406", 
+    "population_proper": "24406"
+  }, 
+  {
+    "city": "Canelones", 
+    "lat": "-34.5228", 
+    "lng": "-56.2778", 
+    "country": "Uruguay", 
+    "iso2": "UY", 
+    "admin_name": "Canelones", 
+    "capital": "admin", 
+    "population": "19865", 
+    "population_proper": "19865"
+  }
+]

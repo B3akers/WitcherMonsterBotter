@@ -1,0 +1,24 @@
+[
+  {
+    "city": "Flying Fish Cove", 
+    "lat": "-10.4167", 
+    "lng": "105.7167", 
+    "country": "Christmas Island", 
+    "iso2": "CX", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Silver City", 
+    "lat": "-10.4216", 
+    "lng": "105.6784", 
+    "country": "Christmas Island", 
+    "iso2": "CX", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

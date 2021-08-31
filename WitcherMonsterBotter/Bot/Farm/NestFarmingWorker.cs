@@ -13,16 +13,19 @@ namespace WitcherMonsterBotter.Bot.Farm
     {
         private ClientConnection _client;
         public NestFarmingWorker(ClientConnection client) { _client = client; }
-        public async Task Update()
+        public async Task Update(bool forceFight = false)
         {
             if (_client.CharacterWorker.Level >= 10)
             {
-                var nest = _client.LocalizationWorker.GetNests().FirstOrDefault(x => x.Entity.NestState == (int)NestState.Default || x.Entity.NestState == (int)NestState.Lured);
+                var nest = _client.LocationWorker.GetNests().FirstOrDefault(x => x.Entity.NestState == (int)NestState.Default || x.Entity.NestState == (int)NestState.Lured);
 
                 if (nest == null)
                 {
                     Logger.Log(Logger.LogType.WARNING, "We coudn't find nests!");
-                    _client.LocalizationWorker.RequestLocationUpdate = true;
+
+                    var locationResult = await Geo.GeoLocationFinder.FindLocation(true, new int[] { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 });
+                    if (locationResult.Item1)
+                        _client.LocationWorker.UpdateLocation(locationResult.Item2, locationResult.Item3);
                 }
                 else
                 {
@@ -31,7 +34,7 @@ namespace WitcherMonsterBotter.Bot.Farm
                     {
                         //Check if we can get gold from nest
                         //
-                        if (nestEnter.Gold > 0)
+                        if (forceFight || nestEnter.Gold > 0)
                         {
                             var nestBattle = await _client.Handler.EndNestCombat(true, nest.Entity.InstanceId, _client.MonsterSlayerWorker.GetRandomCombatDetails(), _client.MonsterSlayerWorker.GetRandomCombatDetails(), _client.MonsterSlayerWorker.GetRandomCombatDetails());
                             if (nestBattle.Success)

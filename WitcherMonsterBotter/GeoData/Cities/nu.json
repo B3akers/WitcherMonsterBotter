@@ -1,0 +1,134 @@
+[
+  {
+    "city": "Alofi", 
+    "lat": "-19.0560", 
+    "lng": "-169.9210", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "1611", 
+    "population_proper": "1611"
+  }, 
+  {
+    "city": "Vaiea Village", 
+    "lat": "-19.1310", 
+    "lng": "-169.8878", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Alofi Township", 
+    "lat": "-19.0541", 
+    "lng": "-169.9200", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Talamaitoga", 
+    "lat": "-19.1265", 
+    "lng": "-169.8959", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Fualahi", 
+    "lat": "-19.0751", 
+    "lng": "-169.9282", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Tamakautoga Village", 
+    "lat": "-19.1059", 
+    "lng": "-169.9156", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Avatele", 
+    "lat": "-19.1000", 
+    "lng": "-169.9167", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Fatiau", 
+    "lat": "-19.1167", 
+    "lng": "-169.9000", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Avatele Village", 
+    "lat": "-19.1250", 
+    "lng": "-169.9117", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Namukulu Village", 
+    "lat": "-18.9775", 
+    "lng": "-169.8966", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Taoli", 
+    "lat": "-19.1000", 
+    "lng": "-169.8833", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Tuapa Village", 
+    "lat": "-18.9915", 
+    "lng": "-169.9042", 
+    "country": "Niue", 
+    "iso2": "NU", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

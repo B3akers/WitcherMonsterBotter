@@ -1,0 +1,35 @@
+[
+  {
+    "city": "Longridge Station", 
+    "lat": "-29.0500", 
+    "lng": "167.9333", 
+    "country": "Norfolk Island", 
+    "iso2": "NF", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Cascade Station", 
+    "lat": "-29.0333", 
+    "lng": "167.9667", 
+    "country": "Norfolk Island", 
+    "iso2": "NF", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Kingston", 
+    "lat": "-29.0569", 
+    "lng": "167.9617", 
+    "country": "Norfolk Island", 
+    "iso2": "NF", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

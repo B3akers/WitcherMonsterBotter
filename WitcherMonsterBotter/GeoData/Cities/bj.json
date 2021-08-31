@@ -1,0 +1,134 @@
+[
+  {
+    "city": "Cotonou", 
+    "lat": "6.4000", 
+    "lng": "2.5200", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Littoral", 
+    "capital": "primary", 
+    "population": "762000", 
+    "population_proper": "690584"
+  }, 
+  {
+    "city": "Porto-Novo", 
+    "lat": "6.4833", 
+    "lng": "2.6167", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Ouémé", 
+    "capital": "primary", 
+    "population": "300000", 
+    "population_proper": "234168"
+  }, 
+  {
+    "city": "Djougou", 
+    "lat": "9.7004", 
+    "lng": "1.6800", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Donga", 
+    "capital": "admin", 
+    "population": "202810", 
+    "population_proper": "102607"
+  }, 
+  {
+    "city": "Parakou", 
+    "lat": "9.3400", 
+    "lng": "2.6200", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Borgou", 
+    "capital": "admin", 
+    "population": "188853", 
+    "population_proper": "163753"
+  }, 
+  {
+    "city": "Kandi", 
+    "lat": "11.1304", 
+    "lng": "2.9400", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Alibori", 
+    "capital": "admin", 
+    "population": "109701", 
+    "population_proper": "37265"
+  }, 
+  {
+    "city": "Lokossa", 
+    "lat": "6.6150", 
+    "lng": "1.7150", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Mono", 
+    "capital": "admin", 
+    "population": "86971", 
+    "population_proper": "86971"
+  }, 
+  {
+    "city": "Ouidah", 
+    "lat": "6.3604", 
+    "lng": "2.0900", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Atlantique", 
+    "capital": "admin", 
+    "population": "83503", 
+    "population_proper": "83503"
+  }, 
+  {
+    "city": "Abomey", 
+    "lat": "7.1853", 
+    "lng": "1.9914", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Zou", 
+    "capital": "admin", 
+    "population": "82154", 
+    "population_proper": "82154"
+  }, 
+  {
+    "city": "Natitingou", 
+    "lat": "10.3204", 
+    "lng": "1.3900", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Atacora", 
+    "capital": "admin", 
+    "population": "80892", 
+    "population_proper": "49821"
+  }, 
+  {
+    "city": "Dogbo", 
+    "lat": "6.8167", 
+    "lng": "1.7833", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Couffo", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Sakété", 
+    "lat": "6.7362", 
+    "lng": "2.6587", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Plateau", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Savalou", 
+    "lat": "7.9281", 
+    "lng": "1.9756", 
+    "country": "Benin", 
+    "iso2": "BJ", 
+    "admin_name": "Collines", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

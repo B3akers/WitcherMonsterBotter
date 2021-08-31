@@ -1,0 +1,101 @@
+[
+  {
+    "city": "San Marino", 
+    "lat": "43.9320", 
+    "lng": "12.4484", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "San Marino Città", 
+    "capital": "primary", 
+    "population": "4040", 
+    "population_proper": "4040"
+  }, 
+  {
+    "city": "Serravalle", 
+    "lat": "43.9683", 
+    "lng": "12.4811", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Serravalle", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Borgo Maggiore", 
+    "lat": "43.9408", 
+    "lng": "12.4475", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Borgo Maggiore", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Domagnano", 
+    "lat": "43.9492", 
+    "lng": "12.4686", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Domagnano", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Acquaviva", 
+    "lat": "43.9453", 
+    "lng": "12.4183", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Acquaviva", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Fiorentino", 
+    "lat": "43.9092", 
+    "lng": "12.4581", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Fiorentino", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Montegiardino", 
+    "lat": "43.9092", 
+    "lng": "12.4833", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Montegiardino", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Chiesanuova", 
+    "lat": "43.9061", 
+    "lng": "12.4214", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Chiesanuova", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Faetano", 
+    "lat": "43.9261", 
+    "lng": "12.4981", 
+    "country": "San Marino", 
+    "iso2": "SM", 
+    "admin_name": "Faetano", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

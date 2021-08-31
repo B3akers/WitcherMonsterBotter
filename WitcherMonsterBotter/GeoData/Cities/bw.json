@@ -1,0 +1,189 @@
+[
+  {
+    "city": "Gaborone", 
+    "lat": "-24.6569", 
+    "lng": "25.9086", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Gaborone", 
+    "capital": "primary", 
+    "population": "231626", 
+    "population_proper": "231626"
+  }, 
+  {
+    "city": "Francistown", 
+    "lat": "-21.1736", 
+    "lng": "27.5125", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Francistown", 
+    "capital": "admin", 
+    "population": "89979", 
+    "population_proper": "88380"
+  }, 
+  {
+    "city": "Molepolole", 
+    "lat": "-24.4066", 
+    "lng": "25.4951", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Kweneng", 
+    "capital": "admin", 
+    "population": "67598", 
+    "population_proper": "67598"
+  }, 
+  {
+    "city": "Maun", 
+    "lat": "-19.9833", 
+    "lng": "23.4167", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "North West", 
+    "capital": "admin", 
+    "population": "57067", 
+    "population_proper": "57067"
+  }, 
+  {
+    "city": "Mahalapye", 
+    "lat": "-23.1041", 
+    "lng": "26.8142", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Central", 
+    "capital": "", 
+    "population": "50744", 
+    "population_proper": "44471"
+  }, 
+  {
+    "city": "Selibe Phikwe", 
+    "lat": "-21.9667", 
+    "lng": "27.9167", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Selibe Phikwe", 
+    "capital": "admin", 
+    "population": "49724", 
+    "population_proper": "49724"
+  }, 
+  {
+    "city": "Serowe", 
+    "lat": "-22.3833", 
+    "lng": "26.7167", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Central", 
+    "capital": "admin", 
+    "population": "48573", 
+    "population_proper": "47419"
+  }, 
+  {
+    "city": "Kanye", 
+    "lat": "-24.9833", 
+    "lng": "25.3500", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Southern", 
+    "capital": "admin", 
+    "population": "46831", 
+    "population_proper": "44716"
+  }, 
+  {
+    "city": "Mochudi", 
+    "lat": "-24.4167", 
+    "lng": "26.1500", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Kgatleng", 
+    "capital": "admin", 
+    "population": "39700", 
+    "population_proper": "39700"
+  }, 
+  {
+    "city": "Lobatse", 
+    "lat": "-25.2167", 
+    "lng": "25.6667", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Lobatse", 
+    "capital": "admin", 
+    "population": "29700", 
+    "population_proper": "29700"
+  }, 
+  {
+    "city": "Tshabong", 
+    "lat": "-26.0200", 
+    "lng": "22.4056", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Kgalagadi", 
+    "capital": "admin", 
+    "population": "9679", 
+    "population_proper": "9679"
+  }, 
+  {
+    "city": "Kasane", 
+    "lat": "-17.7983", 
+    "lng": "25.1536", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Chobe", 
+    "capital": "admin", 
+    "population": "9250", 
+    "population_proper": "6299"
+  }, 
+  {
+    "city": "Ghanzi", 
+    "lat": "-21.7000", 
+    "lng": "21.6500", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Ghanzi", 
+    "capital": "admin", 
+    "population": "6306", 
+    "population_proper": "6306"
+  }, 
+  {
+    "city": "Ramotswa", 
+    "lat": "-24.8667", 
+    "lng": "25.8167", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "South East", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Masunga", 
+    "lat": "-20.6245", 
+    "lng": "27.4488", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "North East", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Sowa Town", 
+    "lat": "-20.5636", 
+    "lng": "26.2244", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Sowa Town", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Jwaneng", 
+    "lat": "-24.6017", 
+    "lng": "24.7281", 
+    "country": "Botswana", 
+    "iso2": "BW", 
+    "admin_name": "Jwaneng", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

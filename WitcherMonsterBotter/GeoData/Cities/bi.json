@@ -1,0 +1,211 @@
+[
+  {
+    "city": "Bujumbura", 
+    "lat": "-3.3825", 
+    "lng": "29.3611", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Bujumbura Mairie", 
+    "capital": "primary", 
+    "population": "658859", 
+    "population_proper": "658859"
+  }, 
+  {
+    "city": "Gitega", 
+    "lat": "-3.4264", 
+    "lng": "29.9306", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Gitega", 
+    "capital": "primary", 
+    "population": "41944", 
+    "population_proper": "41944"
+  }, 
+  {
+    "city": "Ngozi", 
+    "lat": "-2.9000", 
+    "lng": "29.8167", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Ngozi", 
+    "capital": "admin", 
+    "population": "39884", 
+    "population_proper": "39884"
+  }, 
+  {
+    "city": "Gitega", 
+    "lat": "-3.4260", 
+    "lng": "29.8436", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Mwaro", 
+    "capital": "", 
+    "population": "23167", 
+    "population_proper": "23167"
+  }, 
+  {
+    "city": "Kayanza", 
+    "lat": "-2.9221", 
+    "lng": "29.6293", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Kayanza", 
+    "capital": "admin", 
+    "population": "21767", 
+    "population_proper": "21767"
+  }, 
+  {
+    "city": "Bubanza", 
+    "lat": "-3.0833", 
+    "lng": "29.4000", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Bubanza", 
+    "capital": "admin", 
+    "population": "20031", 
+    "population_proper": "20031"
+  }, 
+  {
+    "city": "Gatumba", 
+    "lat": "-3.3333", 
+    "lng": "29.2500", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Bujumbura Rural", 
+    "capital": "", 
+    "population": "11700", 
+    "population_proper": "11700"
+  }, 
+  {
+    "city": "Karuzi", 
+    "lat": "-3.1000", 
+    "lng": "30.1630", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Karuzi", 
+    "capital": "admin", 
+    "population": "10705", 
+    "population_proper": "10705"
+  }, 
+  {
+    "city": "Kirundo", 
+    "lat": "-2.5833", 
+    "lng": "30.1000", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Kirundo", 
+    "capital": "admin", 
+    "population": "10024", 
+    "population_proper": "10024"
+  }, 
+  {
+    "city": "Muyinga", 
+    "lat": "-2.8500", 
+    "lng": "30.3333", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Muyinga", 
+    "capital": "admin", 
+    "population": "9609", 
+    "population_proper": "9609"
+  }, 
+  {
+    "city": "Makamba", 
+    "lat": "-4.1333", 
+    "lng": "29.8000", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Makamba", 
+    "capital": "admin", 
+    "population": "9396", 
+    "population_proper": "9396"
+  }, 
+  {
+    "city": "Ruyigi", 
+    "lat": "-3.4667", 
+    "lng": "30.2500", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Ruyigi", 
+    "capital": "admin", 
+    "population": "7139", 
+    "population_proper": "7139"
+  }, 
+  {
+    "city": "Rutana", 
+    "lat": "-3.9236", 
+    "lng": "30.0061", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Rutana", 
+    "capital": "admin", 
+    "population": "5865", 
+    "population_proper": "5865"
+  }, 
+  {
+    "city": "Muramvya", 
+    "lat": "-3.2500", 
+    "lng": "29.6000", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Muramvya", 
+    "capital": "admin", 
+    "population": "5458", 
+    "population_proper": "5458"
+  }, 
+  {
+    "city": "Bururi", 
+    "lat": "-3.9333", 
+    "lng": "29.6167", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Bururi", 
+    "capital": "admin", 
+    "population": "4478", 
+    "population_proper": "4478"
+  }, 
+  {
+    "city": "Cankuzo", 
+    "lat": "-3.2194", 
+    "lng": "30.5528", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Cankuzo", 
+    "capital": "admin", 
+    "population": "3624", 
+    "population_proper": "3624"
+  }, 
+  {
+    "city": "Isale", 
+    "lat": "-3.3444", 
+    "lng": "29.4833", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Bujumbura Rural", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Rumonge", 
+    "lat": "-3.9736", 
+    "lng": "29.4386", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Rumonge", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Cibitoke", 
+    "lat": "-2.8869", 
+    "lng": "29.1248", 
+    "country": "Burundi", 
+    "iso2": "BI", 
+    "admin_name": "Cibitoke", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

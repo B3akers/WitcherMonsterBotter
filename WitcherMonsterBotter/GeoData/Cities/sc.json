@@ -1,0 +1,79 @@
+[
+  {
+    "city": "Victoria", 
+    "lat": "-4.6236", 
+    "lng": "55.4544", 
+    "country": "Seychelles", 
+    "iso2": "SC", 
+    "admin_name": "English River", 
+    "capital": "primary", 
+    "population": "26450", 
+    "population_proper": "26450"
+  }, 
+  {
+    "city": "De Quincey Village", 
+    "lat": "-4.6026", 
+    "lng": "55.4569", 
+    "country": "Seychelles", 
+    "iso2": "SC", 
+    "admin_name": "Anse Etoile", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Anse Royale", 
+    "lat": "-4.7333", 
+    "lng": "55.5167", 
+    "country": "Seychelles", 
+    "iso2": "SC", 
+    "admin_name": "Anse Royale", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Machabee", 
+    "lat": "-4.5667", 
+    "lng": "55.4500", 
+    "country": "Seychelles", 
+    "iso2": "SC", 
+    "admin_name": "Glacis", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Cascade", 
+    "lat": "-4.6667", 
+    "lng": "55.5000", 
+    "country": "Seychelles", 
+    "iso2": "SC", 
+    "admin_name": "Cascade", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Bel Ombre", 
+    "lat": "-4.6167", 
+    "lng": "55.4167", 
+    "country": "Seychelles", 
+    "iso2": "SC", 
+    "admin_name": "Bel Ombre", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Anse Boileau", 
+    "lat": "-4.7167", 
+    "lng": "55.4833", 
+    "country": "Seychelles", 
+    "iso2": "SC", 
+    "admin_name": "Anse Boileau", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

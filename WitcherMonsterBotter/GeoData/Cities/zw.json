@@ -1,0 +1,211 @@
+[
+  {
+    "city": "Harare", 
+    "lat": "-17.8292", 
+    "lng": "31.0522", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Harare", 
+    "capital": "primary", 
+    "population": "2150000", 
+    "population_proper": "2150000"
+  }, 
+  {
+    "city": "Bulawayo", 
+    "lat": "-20.1667", 
+    "lng": "28.5667", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Bulawayo", 
+    "capital": "admin", 
+    "population": "653337", 
+    "population_proper": "653337"
+  }, 
+  {
+    "city": "Chitungwiza", 
+    "lat": "-18.0000", 
+    "lng": "31.1000", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Harare", 
+    "capital": "", 
+    "population": "340360", 
+    "population_proper": "321782"
+  }, 
+  {
+    "city": "Mutare", 
+    "lat": "-18.9728", 
+    "lng": "32.6694", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Manicaland", 
+    "capital": "admin", 
+    "population": "188243", 
+    "population_proper": "188243"
+  }, 
+  {
+    "city": "Gweru", 
+    "lat": "-19.4580", 
+    "lng": "29.8200", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Midlands", 
+    "capital": "admin", 
+    "population": "141260", 
+    "population_proper": "141260"
+  }, 
+  {
+    "city": "Kwekwe", 
+    "lat": "-18.9167", 
+    "lng": "29.9833", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Midlands", 
+    "capital": "", 
+    "population": "93072", 
+    "population_proper": "93072"
+  }, 
+  {
+    "city": "Kadoma", 
+    "lat": "-18.3500", 
+    "lng": "29.9167", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Mashonaland West", 
+    "capital": "", 
+    "population": "79174", 
+    "population_proper": "33626"
+  }, 
+  {
+    "city": "Masvingo", 
+    "lat": "-20.0744", 
+    "lng": "30.8328", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Masvingo", 
+    "capital": "admin", 
+    "population": "72527", 
+    "population_proper": "72527"
+  }, 
+  {
+    "city": "Chinhoyi", 
+    "lat": "-17.3500", 
+    "lng": "30.2000", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Mashonaland West", 
+    "capital": "admin", 
+    "population": "56794", 
+    "population_proper": "56794"
+  }, 
+  {
+    "city": "Marondera", 
+    "lat": "-18.1833", 
+    "lng": "31.5500", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Mashonaland East", 
+    "capital": "admin", 
+    "population": "52283", 
+    "population_proper": "52283"
+  }, 
+  {
+    "city": "Bindura", 
+    "lat": "-17.3000", 
+    "lng": "31.3333", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Mashonaland Central", 
+    "capital": "admin", 
+    "population": "46275", 
+    "population_proper": "46275"
+  }, 
+  {
+    "city": "Hwange", 
+    "lat": "-18.3647", 
+    "lng": "26.5000", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Matabeleland North", 
+    "capital": "", 
+    "population": "42581", 
+    "population_proper": "42581"
+  }, 
+  {
+    "city": "Beitbridge", 
+    "lat": "-22.2167", 
+    "lng": "30.0000", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Matabeleland South", 
+    "capital": "", 
+    "population": "41767", 
+    "population_proper": "41767"
+  }, 
+  {
+    "city": "Zvishavane", 
+    "lat": "-20.3333", 
+    "lng": "30.0333", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Masvingo", 
+    "capital": "", 
+    "population": "35229", 
+    "population_proper": "35229"
+  }, 
+  {
+    "city": "Victoria Falls", 
+    "lat": "-17.9333", 
+    "lng": "25.8333", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Matabeleland North", 
+    "capital": "", 
+    "population": "33060", 
+    "population_proper": "33060"
+  }, 
+  {
+    "city": "Redcliff", 
+    "lat": "-19.0333", 
+    "lng": "29.7833", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Midlands", 
+    "capital": "", 
+    "population": "32346", 
+    "population_proper": "32346"
+  }, 
+  {
+    "city": "Chiredzi", 
+    "lat": "-21.0496", 
+    "lng": "31.6600", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Masvingo", 
+    "capital": "", 
+    "population": "28205", 
+    "population_proper": "7428"
+  }, 
+  {
+    "city": "Gwanda", 
+    "lat": "-20.9450", 
+    "lng": "29.0250", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Matabeleland South", 
+    "capital": "admin", 
+    "population": "14450", 
+    "population_proper": "14450"
+  }, 
+  {
+    "city": "Lupane", 
+    "lat": "-18.9315", 
+    "lng": "27.8070", 
+    "country": "Zimbabwe", 
+    "iso2": "ZW", 
+    "admin_name": "Matabeleland North", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

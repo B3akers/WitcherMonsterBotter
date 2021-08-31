@@ -1,0 +1,145 @@
+[
+  {
+    "city": "Port-au-Prince", 
+    "lat": "18.5425", 
+    "lng": "-72.3386", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Ouest", 
+    "capital": "primary", 
+    "population": "987310", 
+    "population_proper": "987310"
+  }, 
+  {
+    "city": "Carrefour", 
+    "lat": "18.5333", 
+    "lng": "-72.4000", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Ouest", 
+    "capital": "", 
+    "population": "511345", 
+    "population_proper": "511345"
+  }, 
+  {
+    "city": "Pétion-Ville", 
+    "lat": "18.5098", 
+    "lng": "-72.2856", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Ouest", 
+    "capital": "", 
+    "population": "376834", 
+    "population_proper": "376834"
+  }, 
+  {
+    "city": "Gonaïves", 
+    "lat": "19.4456", 
+    "lng": "-72.6883", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Artibonite", 
+    "capital": "admin", 
+    "population": "324043", 
+    "population_proper": "324043"
+  }, 
+  {
+    "city": "Delmas", 
+    "lat": "18.5500", 
+    "lng": "-72.3000", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Ouest", 
+    "capital": "", 
+    "population": "284079", 
+    "population_proper": "284079"
+  }, 
+  {
+    "city": "Cap-Haïtien", 
+    "lat": "19.7500", 
+    "lng": "-72.2000", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Nord", 
+    "capital": "admin", 
+    "population": "190289", 
+    "population_proper": "190289"
+  }, 
+  {
+    "city": "Les Cayes", 
+    "lat": "18.2004", 
+    "lng": "-73.7500", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Sud", 
+    "capital": "admin", 
+    "population": "175457", 
+    "population_proper": "70000"
+  }, 
+  {
+    "city": "Port-de-Paix", 
+    "lat": "19.9500", 
+    "lng": "-72.8333", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Nord-Ouest", 
+    "capital": "admin", 
+    "population": "121220", 
+    "population_proper": "121220"
+  }, 
+  {
+    "city": "Jacmel", 
+    "lat": "18.2350", 
+    "lng": "-72.5370", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Sud-Est", 
+    "capital": "admin", 
+    "population": "33563", 
+    "population_proper": "33563"
+  }, 
+  {
+    "city": "Jérémie", 
+    "lat": "18.6339", 
+    "lng": "-74.1184", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Grand’Anse", 
+    "capital": "admin", 
+    "population": "30917", 
+    "population_proper": "30917"
+  }, 
+  {
+    "city": "Hinche", 
+    "lat": "19.1430", 
+    "lng": "-72.0040", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Centre", 
+    "capital": "admin", 
+    "population": "18590", 
+    "population_proper": "18590"
+  }, 
+  {
+    "city": "Fort Liberté", 
+    "lat": "19.6656", 
+    "lng": "-71.8448", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Nord-Est", 
+    "capital": "admin", 
+    "population": "11465", 
+    "population_proper": "11465"
+  }, 
+  {
+    "city": "Miragoâne", 
+    "lat": "18.4411", 
+    "lng": "-73.0883", 
+    "country": "Haiti", 
+    "iso2": "HT", 
+    "admin_name": "Nippes", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

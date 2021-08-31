@@ -1,0 +1,112 @@
+[
+  {
+    "city": "San José", 
+    "lat": "9.9333", 
+    "lng": "-84.0833", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "San José", 
+    "capital": "primary", 
+    "population": "288054", 
+    "population_proper": "288054"
+  }, 
+  {
+    "city": "Cartago", 
+    "lat": "9.8667", 
+    "lng": "-83.9167", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Cartago", 
+    "capital": "admin", 
+    "population": "221733", 
+    "population_proper": "221733"
+  }, 
+  {
+    "city": "Puerto Limón", 
+    "lat": "10.0022", 
+    "lng": "-83.0840", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Limón", 
+    "capital": "admin", 
+    "population": "61072", 
+    "population_proper": "61072"
+  }, 
+  {
+    "city": "Liberia", 
+    "lat": "10.6338", 
+    "lng": "-85.4333", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Guanacaste", 
+    "capital": "admin", 
+    "population": "45380", 
+    "population_proper": "37696"
+  }, 
+  {
+    "city": "Buenos Aires", 
+    "lat": "9.1497", 
+    "lng": "-83.3334", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Puntarenas", 
+    "capital": "", 
+    "population": "45000", 
+    "population_proper": "45000"
+  }, 
+  {
+    "city": "Alajuela", 
+    "lat": "10.0167", 
+    "lng": "-84.2167", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Alajuela", 
+    "capital": "admin", 
+    "population": "42975", 
+    "population_proper": "42975"
+  }, 
+  {
+    "city": "Puntarenas", 
+    "lat": "9.9764", 
+    "lng": "-84.8339", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Puntarenas", 
+    "capital": "admin", 
+    "population": "41528", 
+    "population_proper": "41528"
+  }, 
+  {
+    "city": "Quesada", 
+    "lat": "10.3305", 
+    "lng": "-84.4400", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Alajuela", 
+    "capital": "", 
+    "population": "31106", 
+    "population_proper": "27310"
+  }, 
+  {
+    "city": "San Juan", 
+    "lat": "9.9609", 
+    "lng": "-84.0731", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "San José", 
+    "capital": "", 
+    "population": "24944", 
+    "population_proper": "24944"
+  }, 
+  {
+    "city": "Heredia", 
+    "lat": "9.9985", 
+    "lng": "-84.1169", 
+    "country": "Costa Rica", 
+    "iso2": "CR", 
+    "admin_name": "Heredia", 
+    "capital": "admin", 
+    "population": "22700", 
+    "population_proper": "22700"
+  }
+]

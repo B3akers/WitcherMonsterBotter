@@ -1,0 +1,24 @@
+[
+  {
+    "city": "Saint-Pierre", 
+    "lat": "46.7811", 
+    "lng": "-56.1764", 
+    "country": "Saint Pierre And Miquelon", 
+    "iso2": "PM", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Village de l’Anse du Gouvernement", 
+    "lat": "46.8975", 
+    "lng": "-56.3013", 
+    "country": "Saint Pierre And Miquelon", 
+    "iso2": "PM", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

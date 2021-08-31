@@ -1,0 +1,156 @@
+[
+  {
+    "city": "Brazzaville", 
+    "lat": "-4.2667", 
+    "lng": "15.2833", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Brazzaville", 
+    "capital": "primary", 
+    "population": "1827000", 
+    "population_proper": "1827000"
+  }, 
+  {
+    "city": "Pointe-Noire", 
+    "lat": "-4.7889", 
+    "lng": "11.8653", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Pointe-Noire", 
+    "capital": "admin", 
+    "population": "829134", 
+    "population_proper": "829134"
+  }, 
+  {
+    "city": "Dolisie", 
+    "lat": "-4.1961", 
+    "lng": "12.6731", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Niari", 
+    "capital": "admin", 
+    "population": "103894", 
+    "population_proper": "91965"
+  }, 
+  {
+    "city": "Kayes", 
+    "lat": "-4.1806", 
+    "lng": "13.2889", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Bouenza", 
+    "capital": "", 
+    "population": "62521", 
+    "population_proper": "58737"
+  }, 
+  {
+    "city": "Mossendjo", 
+    "lat": "-2.9458", 
+    "lng": "12.7147", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Niari", 
+    "capital": "", 
+    "population": "30936", 
+    "population_proper": "18231"
+  }, 
+  {
+    "city": "Ouésso", 
+    "lat": "1.6167", 
+    "lng": "16.0500", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Sangha", 
+    "capital": "admin", 
+    "population": "28179", 
+    "population_proper": "28179"
+  }, 
+  {
+    "city": "Owando", 
+    "lat": "-0.4833", 
+    "lng": "15.9000", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Cuvette", 
+    "capital": "admin", 
+    "population": "23952", 
+    "population_proper": "23952"
+  }, 
+  {
+    "city": "Sibiti", 
+    "lat": "-3.6833", 
+    "lng": "13.3500", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Lékoumou", 
+    "capital": "admin", 
+    "population": "22811", 
+    "population_proper": "19089"
+  }, 
+  {
+    "city": "Madingou", 
+    "lat": "-4.1536", 
+    "lng": "13.5500", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Bouenza", 
+    "capital": "admin", 
+    "population": "22760", 
+    "population_proper": "22760"
+  }, 
+  {
+    "city": "Impfondo", 
+    "lat": "1.6333", 
+    "lng": "18.0667", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Likouala", 
+    "capital": "admin", 
+    "population": "20859", 
+    "population_proper": "20859"
+  }, 
+  {
+    "city": "Kinkala", 
+    "lat": "-4.3500", 
+    "lng": "14.7600", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Pool", 
+    "capital": "admin", 
+    "population": "16132", 
+    "population_proper": "16132"
+  }, 
+  {
+    "city": "Djambala", 
+    "lat": "-2.5500", 
+    "lng": "14.7500", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Plateaux", 
+    "capital": "admin", 
+    "population": "9651", 
+    "population_proper": "9650"
+  }, 
+  {
+    "city": "Ewo", 
+    "lat": "-0.8667", 
+    "lng": "14.8167", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Cuvette-Ouest", 
+    "capital": "admin", 
+    "population": "9062", 
+    "population_proper": "9062"
+  }, 
+  {
+    "city": "Loango", 
+    "lat": "-4.6519", 
+    "lng": "11.8125", 
+    "country": "Congo (Brazzaville)", 
+    "iso2": "CG", 
+    "admin_name": "Kouilou", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

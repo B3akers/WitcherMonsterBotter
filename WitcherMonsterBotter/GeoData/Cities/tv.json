@@ -1,0 +1,68 @@
+[
+  {
+    "city": "Funafuti", 
+    "lat": "-8.5167", 
+    "lng": "179.2167", 
+    "country": "Tuvalu", 
+    "iso2": "TV", 
+    "admin_name": "Funafuti", 
+    "capital": "primary", 
+    "population": "6025", 
+    "population_proper": "6025"
+  }, 
+  {
+    "city": "Vaitupu", 
+    "lat": "-7.4891", 
+    "lng": "178.6796", 
+    "country": "Tuvalu", 
+    "iso2": "TV", 
+    "admin_name": "Vaitupu", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Asau", 
+    "lat": "-7.4902", 
+    "lng": "178.6937", 
+    "country": "Tuvalu", 
+    "iso2": "TV", 
+    "admin_name": "Vaitupu", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Tanrake", 
+    "lat": "-7.2453", 
+    "lng": "177.1469", 
+    "country": "Tuvalu", 
+    "iso2": "TV", 
+    "admin_name": "Nui", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Fenua Tapu", 
+    "lat": "-7.2444", 
+    "lng": "177.1460", 
+    "country": "Tuvalu", 
+    "iso2": "TV", 
+    "admin_name": "Nui", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Tonga", 
+    "lat": "-6.2833", 
+    "lng": "176.3167", 
+    "country": "Tuvalu", 
+    "iso2": "TV", 
+    "admin_name": "Nanumaga", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

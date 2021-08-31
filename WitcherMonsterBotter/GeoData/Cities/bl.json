@@ -1,0 +1,145 @@
+[
+  {
+    "city": "Gustavia", 
+    "lat": "17.8958", 
+    "lng": "-62.8508", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "La Grande Saline", 
+    "lat": "17.8947", 
+    "lng": "-62.8270", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Toiny", 
+    "lat": "17.8974", 
+    "lng": "-62.7997", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Marigot", 
+    "lat": "17.9098", 
+    "lng": "-62.8147", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Le Gouverneur", 
+    "lat": "17.8878", 
+    "lng": "-62.8387", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Petit Cul-de-Sac", 
+    "lat": "17.9026", 
+    "lng": "-62.7964", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Terre Neuve", 
+    "lat": "17.9154", 
+    "lng": "-62.8552", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Quartier du Roi", 
+    "lat": "17.9095", 
+    "lng": "-62.8458", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Corossol", 
+    "lat": "17.9086", 
+    "lng": "-62.8556", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Public", 
+    "lat": "17.9059", 
+    "lng": "-62.8514", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "La Petite Saline", 
+    "lat": "17.9009", 
+    "lng": "-62.8228", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Devet", 
+    "lat": "17.9002", 
+    "lng": "-62.8023", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Anse des Cayes", 
+    "lat": "17.9121", 
+    "lng": "-62.8463", 
+    "country": "Saint Barthelemy", 
+    "iso2": "BL", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

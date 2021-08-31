@@ -1,0 +1,35 @@
+[
+  {
+    "city": "Macau", 
+    "lat": "22.2030", 
+    "lng": "113.5450", 
+    "country": "Macau", 
+    "iso2": "MO", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "568700", 
+    "population_proper": "568700"
+  }, 
+  {
+    "city": "Cheoc Ca Chün", 
+    "lat": "22.1614", 
+    "lng": "113.5564", 
+    "country": "Macau", 
+    "iso2": "MO", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Taipa", 
+    "lat": "22.1558", 
+    "lng": "113.5569", 
+    "country": "Macau", 
+    "iso2": "MO", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

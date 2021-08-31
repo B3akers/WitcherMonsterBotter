@@ -1,0 +1,24 @@
+[
+  {
+    "city": "Majuro", 
+    "lat": "7.0918", 
+    "lng": "171.3802", 
+    "country": "Marshall Islands", 
+    "iso2": "MH", 
+    "admin_name": "Majuro", 
+    "capital": "primary", 
+    "population": "30000", 
+    "population_proper": "30000"
+  }, 
+  {
+    "city": "Ebeye", 
+    "lat": "8.7789", 
+    "lng": "167.7381", 
+    "country": "Marshall Islands", 
+    "iso2": "MH", 
+    "admin_name": "Kwajalein", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

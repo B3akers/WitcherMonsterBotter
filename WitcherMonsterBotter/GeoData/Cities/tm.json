@@ -1,0 +1,145 @@
+[
+  {
+    "city": "Ashgabat", 
+    "lat": "37.9500", 
+    "lng": "58.3833", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Ahal", 
+    "capital": "primary", 
+    "population": "1031992", 
+    "population_proper": "1031992"
+  }, 
+  {
+    "city": "Türkmenabat", 
+    "lat": "39.1000", 
+    "lng": "63.5667", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Lebap", 
+    "capital": "admin", 
+    "population": "408906", 
+    "population_proper": "408906"
+  }, 
+  {
+    "city": "Daşoguz", 
+    "lat": "41.8167", 
+    "lng": "59.9831", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Daşoguz", 
+    "capital": "admin", 
+    "population": "227184", 
+    "population_proper": "227184"
+  }, 
+  {
+    "city": "Mary", 
+    "lat": "37.6000", 
+    "lng": "61.8333", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Mary", 
+    "capital": "admin", 
+    "population": "208682", 
+    "population_proper": "208682"
+  }, 
+  {
+    "city": "Balkanabat", 
+    "lat": "39.5119", 
+    "lng": "54.3650", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Balkan", 
+    "capital": "admin", 
+    "population": "89785", 
+    "population_proper": "89785"
+  }, 
+  {
+    "city": "Serdar", 
+    "lat": "38.9764", 
+    "lng": "56.2758", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Balkan", 
+    "capital": "", 
+    "population": "89582", 
+    "population_proper": "89582"
+  }, 
+  {
+    "city": "Türkmenbaşy", 
+    "lat": "40.0230", 
+    "lng": "52.9697", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Balkan", 
+    "capital": "", 
+    "population": "68292", 
+    "population_proper": "65152"
+  }, 
+  {
+    "city": "Tejen", 
+    "lat": "37.3786", 
+    "lng": "60.4960", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Ahal", 
+    "capital": "", 
+    "population": "67294", 
+    "population_proper": "58005"
+  }, 
+  {
+    "city": "Abadan", 
+    "lat": "38.0517", 
+    "lng": "58.2100", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Ahal", 
+    "capital": "", 
+    "population": "40813", 
+    "population_proper": "39481"
+  }, 
+  {
+    "city": "Kaka", 
+    "lat": "37.3503", 
+    "lng": "59.6000", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Ahal", 
+    "capital": "", 
+    "population": "38381", 
+    "population_proper": "18545"
+  }, 
+  {
+    "city": "Atamyrat", 
+    "lat": "37.8167", 
+    "lng": "65.2000", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Lebap", 
+    "capital": "", 
+    "population": "38350", 
+    "population_proper": "38350"
+  }, 
+  {
+    "city": "Magtymguly", 
+    "lat": "38.4333", 
+    "lng": "56.2833", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Balkan", 
+    "capital": "minor", 
+    "population": "8412", 
+    "population_proper": "8412"
+  }, 
+  {
+    "city": "Änew", 
+    "lat": "37.8875", 
+    "lng": "58.5160", 
+    "country": "Turkmenistan", 
+    "iso2": "TM", 
+    "admin_name": "Ahal", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

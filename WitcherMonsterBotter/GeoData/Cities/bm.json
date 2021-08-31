@@ -1,0 +1,101 @@
+[
+  {
+    "city": "Hamilton", 
+    "lat": "32.2942", 
+    "lng": "-64.7839", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Hamilton", 
+    "capital": "primary", 
+    "population": "52320", 
+    "population_proper": "13500"
+  }, 
+  {
+    "city": "Warwick Camp", 
+    "lat": "32.2572", 
+    "lng": "-64.8161", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Warwick", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Hill View", 
+    "lat": "32.2694", 
+    "lng": "-64.8089", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Warwick", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "North Shore Village", 
+    "lat": "32.3064", 
+    "lng": "-64.7736", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Devonshire", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Hinson Hall", 
+    "lat": "32.3136", 
+    "lng": "-64.7436", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Smith’s", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Mount Pleasant", 
+    "lat": "32.2742", 
+    "lng": "-64.7836", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Paget", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Flatt’s Village", 
+    "lat": "32.3211", 
+    "lng": "-64.7369", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Hamilton", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Harrington Hundreds", 
+    "lat": "32.3186", 
+    "lng": "-64.7289", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Smith’s", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Camden", 
+    "lat": "32.2942", 
+    "lng": "-64.7606", 
+    "country": "Bermuda", 
+    "iso2": "BM", 
+    "admin_name": "Paget", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

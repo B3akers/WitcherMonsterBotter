@@ -1,0 +1,178 @@
+[
+  {
+    "city": "Juba", 
+    "lat": "4.8500", 
+    "lng": "31.6000", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Central Equatoria", 
+    "capital": "primary", 
+    "population": "372410", 
+    "population_proper": "372410"
+  }, 
+  {
+    "city": "Bor", 
+    "lat": "6.2167", 
+    "lng": "31.5500", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Jonglei", 
+    "capital": "admin", 
+    "population": "315351", 
+    "population_proper": "315351"
+  }, 
+  {
+    "city": "Yei", 
+    "lat": "4.0904", 
+    "lng": "30.6800", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Central Equatoria", 
+    "capital": "", 
+    "population": "185000", 
+    "population_proper": "40382"
+  }, 
+  {
+    "city": "Wau", 
+    "lat": "7.7000", 
+    "lng": "27.9833", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Western Bahr el Ghazal", 
+    "capital": "admin", 
+    "population": "163442", 
+    "population_proper": "163442"
+  }, 
+  {
+    "city": "Malakal", 
+    "lat": "9.5333", 
+    "lng": "31.6500", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Upper Nile", 
+    "capital": "admin", 
+    "population": "147450", 
+    "population_proper": "147450"
+  }, 
+  {
+    "city": "Gogrial", 
+    "lat": "8.5337", 
+    "lng": "28.1167", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Warrap", 
+    "capital": "", 
+    "population": "50065", 
+    "population_proper": "38572"
+  }, 
+  {
+    "city": "Aweil", 
+    "lat": "8.7666", 
+    "lng": "27.4000", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Northern Bahr el Ghazal", 
+    "capital": "admin", 
+    "population": "46705", 
+    "population_proper": "38745"
+  }, 
+  {
+    "city": "Yambio", 
+    "lat": "4.5705", 
+    "lng": "28.4163", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Western Equatoria", 
+    "capital": "admin", 
+    "population": "40382", 
+    "population_proper": "8459"
+  }, 
+  {
+    "city": "Rumbek", 
+    "lat": "6.8000", 
+    "lng": "29.6833", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Lakes", 
+    "capital": "admin", 
+    "population": "32083", 
+    "population_proper": "3462"
+  }, 
+  {
+    "city": "Torit", 
+    "lat": "4.4167", 
+    "lng": "32.5667", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Eastern Equatoria", 
+    "capital": "admin", 
+    "population": "17957", 
+    "population_proper": "17957"
+  }, 
+  {
+    "city": "Maridi", 
+    "lat": "4.9151", 
+    "lng": "29.4769", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Western Equatoria", 
+    "capital": "", 
+    "population": "14224", 
+    "population_proper": "1291"
+  }, 
+  {
+    "city": "Bentiu", 
+    "lat": "9.2500", 
+    "lng": "29.8000", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Unity", 
+    "capital": "admin", 
+    "population": "7781", 
+    "population_proper": "7781"
+  }, 
+  {
+    "city": "Kapoeta", 
+    "lat": "4.7721", 
+    "lng": "33.5902", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Eastern Equatoria", 
+    "capital": "", 
+    "population": "7042", 
+    "population_proper": "3000"
+  }, 
+  {
+    "city": "Melut", 
+    "lat": "10.4404", 
+    "lng": "32.2015", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Upper Nile", 
+    "capital": "", 
+    "population": "6407", 
+    "population_proper": "6407"
+  }, 
+  {
+    "city": "Nasir", 
+    "lat": "8.6004", 
+    "lng": "33.0666", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Upper Nile", 
+    "capital": "", 
+    "population": "1741", 
+    "population_proper": "1741"
+  }, 
+  {
+    "city": "Kuacjok", 
+    "lat": "8.3100", 
+    "lng": "27.9900", 
+    "country": "South Sudan", 
+    "iso2": "SS", 
+    "admin_name": "Warrap", 
+    "capital": "admin", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

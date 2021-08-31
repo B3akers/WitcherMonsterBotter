@@ -1,0 +1,90 @@
+[
+  {
+    "city": "Suva", 
+    "lat": "-18.1333", 
+    "lng": "178.4333", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Rewa", 
+    "capital": "primary", 
+    "population": "88271", 
+    "population_proper": "88271"
+  }, 
+  {
+    "city": "Lautoka", 
+    "lat": "-17.6242", 
+    "lng": "177.4528", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Ba", 
+    "capital": "", 
+    "population": "52220", 
+    "population_proper": "52220"
+  }, 
+  {
+    "city": "Nausori", 
+    "lat": "-18.0244", 
+    "lng": "178.5454", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Tailevu", 
+    "capital": "", 
+    "population": "47604", 
+    "population_proper": "47604"
+  }, 
+  {
+    "city": "Nadi", 
+    "lat": "-17.8000", 
+    "lng": "177.4167", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Ba", 
+    "capital": "", 
+    "population": "42284", 
+    "population_proper": "42284"
+  }, 
+  {
+    "city": "Labasa", 
+    "lat": "-16.4333", 
+    "lng": "179.3667", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Macuata", 
+    "capital": "", 
+    "population": "27949", 
+    "population_proper": "27949"
+  }, 
+  {
+    "city": "Ba", 
+    "lat": "-17.5333", 
+    "lng": "177.6833", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Ba", 
+    "capital": "", 
+    "population": "18526", 
+    "population_proper": "18526"
+  }, 
+  {
+    "city": "Sigatoka", 
+    "lat": "-18.1500", 
+    "lng": "177.5000", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Nadroga and Navosa", 
+    "capital": "", 
+    "population": "9622", 
+    "population_proper": "9622"
+  }, 
+  {
+    "city": "Vaileka", 
+    "lat": "-17.3667", 
+    "lng": "178.1500", 
+    "country": "Fiji", 
+    "iso2": "FJ", 
+    "admin_name": "Ra", 
+    "capital": "", 
+    "population": "5078", 
+    "population_proper": "5078"
+  }
+]

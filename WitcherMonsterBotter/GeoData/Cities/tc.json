@@ -1,0 +1,189 @@
+[
+  {
+    "city": "Grand Turk", 
+    "lat": "21.4664", 
+    "lng": "-71.1360", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "primary", 
+    "population": "5801", 
+    "population_proper": "3720"
+  }, 
+  {
+    "city": "Five Cays Settlement", 
+    "lat": "21.7605", 
+    "lng": "-72.2645", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "High Rock", 
+    "lat": "21.7972", 
+    "lng": "-72.2673", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Palm Grove", 
+    "lat": "21.4521", 
+    "lng": "-71.1435", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "The Pillory", 
+    "lat": "21.4809", 
+    "lng": "-71.1486", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Kingston", 
+    "lat": "21.7859", 
+    "lng": "-72.1883", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "The Bight Settlements", 
+    "lat": "21.7796", 
+    "lng": "-72.2042", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Blue Hills", 
+    "lat": "21.8066", 
+    "lng": "-72.2766", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Lower Bight", 
+    "lat": "21.7813", 
+    "lng": "-72.2105", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Wheeland", 
+    "lat": "21.8140", 
+    "lng": "-72.2821", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Corrinice", 
+    "lat": "21.8196", 
+    "lng": "-72.2872", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Cockburn Harbour", 
+    "lat": "21.4929", 
+    "lng": "-71.5330", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Highland House", 
+    "lat": "21.4965", 
+    "lng": "-71.4989", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "The Flat", 
+    "lat": "21.4992", 
+    "lng": "-71.5335", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Fish-hawks Mark", 
+    "lat": "21.4862", 
+    "lng": "-71.5260", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "South District", 
+    "lat": "21.3191", 
+    "lng": "-71.2134", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }, 
+  {
+    "city": "Balfour Town", 
+    "lat": "21.3268", 
+    "lng": "-71.2151", 
+    "country": "Turks And Caicos Islands", 
+    "iso2": "TC", 
+    "admin_name": "", 
+    "capital": "", 
+    "population": "", 
+    "population_proper": ""
+  }
+]

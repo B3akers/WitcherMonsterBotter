@@ -1,0 +1,233 @@
+[
+  {
+    "city": "Comayagüela", 
+    "lat": "14.0833", 
+    "lng": "-87.2167", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Francisco Morazán", 
+    "capital": "", 
+    "population": "1250000", 
+    "population_proper": "1250000"
+  }, 
+  {
+    "city": "Tegucigalpa", 
+    "lat": "14.0942", 
+    "lng": "-87.2067", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Francisco Morazán", 
+    "capital": "primary", 
+    "population": "1126534", 
+    "population_proper": "1126534"
+  }, 
+  {
+    "city": "San Pedro Sula", 
+    "lat": "15.5000", 
+    "lng": "-88.0333", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Cortés", 
+    "capital": "admin", 
+    "population": "1073824", 
+    "population_proper": "1073824"
+  }, 
+  {
+    "city": "Choloma", 
+    "lat": "15.6333", 
+    "lng": "-88.0000", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Cortés", 
+    "capital": "", 
+    "population": "510456", 
+    "population_proper": "510456"
+  }, 
+  {
+    "city": "Puerto Cortés", 
+    "lat": "15.8833", 
+    "lng": "-87.9500", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Cortés", 
+    "capital": "", 
+    "population": "200000", 
+    "population_proper": "200000"
+  }, 
+  {
+    "city": "La Ceiba", 
+    "lat": "15.7800", 
+    "lng": "-86.7878", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Atlántida", 
+    "capital": "admin", 
+    "population": "196856", 
+    "population_proper": "196856"
+  }, 
+  {
+    "city": "Comayagua", 
+    "lat": "14.4600", 
+    "lng": "-87.6500", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Comayagua", 
+    "capital": "admin", 
+    "population": "144785", 
+    "population_proper": "144785"
+  }, 
+  {
+    "city": "Ciudad Choluteca", 
+    "lat": "13.3167", 
+    "lng": "-87.2167", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Choluteca", 
+    "capital": "admin", 
+    "population": "120000", 
+    "population_proper": "120000"
+  }, 
+  {
+    "city": "Yoro", 
+    "lat": "15.1333", 
+    "lng": "-87.1333", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Yoro", 
+    "capital": "admin", 
+    "population": "64425", 
+    "population_proper": "64425"
+  }, 
+  {
+    "city": "Santa Rosa de Copán", 
+    "lat": "14.7667", 
+    "lng": "-88.7833", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Copán", 
+    "capital": "admin", 
+    "population": "56000", 
+    "population_proper": "56000"
+  }, 
+  {
+    "city": "Gracias", 
+    "lat": "14.5833", 
+    "lng": "-88.5833", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Lempira", 
+    "capital": "admin", 
+    "population": "50256", 
+    "population_proper": "50256"
+  }, 
+  {
+    "city": "La Paz", 
+    "lat": "14.3169", 
+    "lng": "-87.6831", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "La Paz", 
+    "capital": "admin", 
+    "population": "41250", 
+    "population_proper": "41250"
+  }, 
+  {
+    "city": "Juticalpa", 
+    "lat": "14.6664", 
+    "lng": "-86.2186", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Olancho", 
+    "capital": "admin", 
+    "population": "33260", 
+    "population_proper": "33260"
+  }, 
+  {
+    "city": "Trujillo", 
+    "lat": "15.9167", 
+    "lng": "-86.0000", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Colón", 
+    "capital": "admin", 
+    "population": "30000", 
+    "population_proper": "30000"
+  }, 
+  {
+    "city": "Santa Bárbara", 
+    "lat": "14.9167", 
+    "lng": "-88.2333", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Santa Bárbara", 
+    "capital": "admin", 
+    "population": "29283", 
+    "population_proper": "29283"
+  }, 
+  {
+    "city": "La Esperanza", 
+    "lat": "14.3000", 
+    "lng": "-88.1833", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Intibucá", 
+    "capital": "admin", 
+    "population": "21000", 
+    "population_proper": "21000"
+  }, 
+  {
+    "city": "Nacaome", 
+    "lat": "13.5333", 
+    "lng": "-87.4833", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Valle", 
+    "capital": "admin", 
+    "population": "13931", 
+    "population_proper": "13931"
+  }, 
+  {
+    "city": "Yuscarán", 
+    "lat": "13.9433", 
+    "lng": "-86.8667", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "El Paraíso", 
+    "capital": "admin", 
+    "population": "11396", 
+    "population_proper": "11396"
+  }, 
+  {
+    "city": "Nueva Ocotepeque", 
+    "lat": "14.4333", 
+    "lng": "-89.1833", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Ocotepeque", 
+    "capital": "admin", 
+    "population": "8780", 
+    "population_proper": "8780"
+  }, 
+  {
+    "city": "Roatán", 
+    "lat": "16.3300", 
+    "lng": "-86.5190", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Islas de la Bahía", 
+    "capital": "admin", 
+    "population": "7514", 
+    "population_proper": "7514"
+  }, 
+  {
+    "city": "Puerto Lempira", 
+    "lat": "15.2653", 
+    "lng": "-83.7744", 
+    "country": "Honduras", 
+    "iso2": "HN", 
+    "admin_name": "Gracias a Dios", 
+    "capital": "admin", 
+    "population": "4856", 
+    "population_proper": "4664"
+  }
+]

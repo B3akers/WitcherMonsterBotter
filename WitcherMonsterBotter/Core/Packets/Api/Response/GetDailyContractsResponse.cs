@@ -16,10 +16,10 @@ namespace WitcherMonsterBotter.Core.Packets.Api.Response
         public int Empty { get; set; }
 
         [SerializableProperty]
-        public int CanReshuffle { get; set; }
+        public int CanAdd { get; set; }
 
         [SerializableProperty]
-        public int CanAdd { get; set; }
+        public int CanReshuffle { get; set; }
 
         [SerializableProperty]
         public List<DailyContract> Contracts { get; set; }
